@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514391696696">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514391953309">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -20,7 +20,7 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="fansclub.css" crc="384534765" ref="fansclub"/>
-    <file name="index.css" crc="477454745" ref="index"/>
+    <file name="index.css" crc="96224152" ref="index"/>
     <file name="contacto.css" crc="281313381" ref="contacto"/>
     <file name="ot.css" crc="4086758337" ref="ot"/>
     <file name="tienda.css" crc="4042818397" ref="tienda"/>
@@ -70,7 +70,7 @@
     <file name="touchswipe.js" crc="404375771" ref="index:ot:tienda:inicio"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="inicio"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía:inicio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="fansclub:ot:contacto:tienda:biografía:inicio"/>
     <file name="require.js" crc="244322403" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio"/>
     <file name="form_check.php" crc="158155501" ref="contacto"/>
     <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
@@ -291,7 +291,7 @@
     <file name="u15076-44.png" crc="492980683" ref="biografía"/>
     <file name="bioooo.jpg" crc="4111651827" seo="true" ref="biografía"/>
   </folder>
-  <file name="index.html" crc="3786823371" seo="true" mt="1514390670602" redirect="true"/>
+  <file name="index.html" crc="4240234314" seo="true" mt="1514391929756" redirect="true"/>
   <file name="fansclub.html" crc="467370969" seo="true" mt="1514389179036" redirect="true"/>
   <file name="ot.html" crc="270306299" seo="true" mt="1514389120911" redirect="true"/>
   <file name="contacto.html" crc="4171298446" seo="true" mt="1514391079119" redirect="true"/>
