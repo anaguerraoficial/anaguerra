@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514388088731">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514388481311">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="fansclub.css" crc="384534765" ref="fansclub"/>
     <file name="index.css" crc="197798168" ref="index"/>
     <file name="contacto.css" crc="281313381" ref="contacto"/>
-    <file name="ot.css" crc="4244439427" ref="ot"/>
+    <file name="ot.css" crc="4086758337" ref="ot"/>
     <file name="tienda.css" crc="298902591" ref="tienda"/>
     <file name="biograf_a.css" crc="4179337332" ref="biografía"/>
     <file name="home.css" crc="240218977" ref="home"/>
@@ -275,7 +275,7 @@
   </folder>
   <file name="index.html" crc="3804968709" seo="true" mt="1514386197006" redirect="true"/>
   <file name="fansclub.html" crc="297756968" seo="true" mt="1514387379194" redirect="true"/>
-  <file name="ot.html" crc="4294131552" seo="true" mt="1514388011415" redirect="true"/>
+  <file name="ot.html" crc="3790479913" seo="true" mt="1514388442656" redirect="true"/>
   <file name="contacto.html" crc="170822370" seo="true" mt="1514388038678" redirect="true"/>
   <file name="tienda.html" crc="436726677" seo="true" mt="1514387415429" redirect="true"/>
   <file name="biografía.html" crc="475002429" seo="true" mt="1514387287180" redirect="true"/>
