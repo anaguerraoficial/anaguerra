@@ -7,13 +7,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/tienda.html</loc>
-    <lastmod>2017-12-25</lastmod>
+    <loc>http://www.anawar.es/biograf%C3%ADa.html</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/biograf%C3%ADa.html</loc>
+    <loc>http://www.anawar.es/home.html</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/tienda.html</loc>
     <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -25,26 +31,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/ot.html</loc>
-    <lastmod>2017-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.anawar.es/fansclub.html</loc>
-    <lastmod>2017-12-25</lastmod>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/assets/altanera-negra.jpg</loc>
-    <lastmod>2017-12-10</lastmod>
+    <loc>http://www.anawar.es/ot.html</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/assets/ay-ana.jpg</loc>
-    <lastmod>2017-12-10</lastmod>
+    <loc>http://www.anawar.es/images/concierto%202%C3%A7.png</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -217,14 +217,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/concierto%201%C3%A7.png</loc>
-    <lastmod>2017-12-27</lastmod>
+    <loc>http://www.anawar.es/assets/altanera-negra.jpg</loc>
+    <lastmod>2017-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/concierto%202%C3%A7.png</loc>
-    <lastmod>2017-12-27</lastmod>
+    <loc>http://www.anawar.es/assets/ay-ana.jpg</loc>
+    <lastmod>2017-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -385,14 +385,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/assets/2.jpg</loc>
-    <lastmod>2017-12-19</lastmod>
+    <loc>http://www.anawar.es/images/12.jpg</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/assets/altanera-blanca.jpg</loc>
-    <lastmod>2017-12-22</lastmod>
+    <loc>http://www.anawar.es/images/13%20(1).jpg</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -403,14 +403,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/13%20(3).jpg</loc>
+    <loc>http://www.anawar.es/images/concierto%201%C3%A7.png</loc>
     <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/13%20(4).jpg</loc>
-    <lastmod>2017-12-27</lastmod>
+    <loc>http://www.anawar.es/assets/altanera-blanca.jpg</loc>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -751,7 +751,43 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.anawar.es/images/entrada0.png</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/images/entrada1.png</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/images/entrada2.png</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/images/entrada3.png</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/images/entrada4.png</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.anawar.es/assets/3.jpg</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.anawar.es/assets/2.jpg</loc>
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -769,7 +805,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/12.jpg</loc>
+    <loc>http://www.anawar.es/images/13%20(3).jpg</loc>
     <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -781,7 +817,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.anawar.es/images/13%20(1).jpg</loc>
+    <loc>http://www.anawar.es/images/13%20(4).jpg</loc>
     <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

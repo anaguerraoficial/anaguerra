@@ -1,12 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514375011958">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514380793519">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="fansclub.css" crc="4120572652" ref="fansclub"/>
-    <file name="index.css" crc="4095091220" ref="index"/>
-    <file name="contacto.css" crc="60312206" ref="contacto"/>
-    <file name="ot.css" crc="92078236" ref="ot"/>
-    <file name="tienda.css" crc="152356638" ref="tienda"/>
-    <file name="biograf_a.css" crc="4041179211" ref="biografía"/>
+    <file name="fansclub.css" crc="413133488" ref="fansclub"/>
+    <file name="index.css" crc="506989841" ref="index"/>
+    <file name="contacto.css" crc="3923755162" ref="contacto"/>
+    <file name="ot.css" crc="33437936" ref="ot"/>
+    <file name="tienda.css" crc="3794042513" ref="tienda"/>
+    <file name="biograf_a.css" crc="4001484335" ref="biografía"/>
+    <file name="home.css" crc="434357413" ref="home"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -40,70 +41,70 @@
     <file name="the-last-bikina-.jpg" crc="200340907" seo="true" mt="1514221346000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="museutils.js" crc="163421577" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="whatinput.js" crc="86476730" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="museconfig.js" crc="36584860" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="webpro.js" crc="3848665353" ref="index:ot:contacto:tienda"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:ot:tienda"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:ot:tienda"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:ot:tienda"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="require.js" crc="244322403" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="form_check.php" crc="158155501" ref="contacto"/>
-    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
-    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="museutils.js" crc="163421577" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="museconfig.js" crc="36584860" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="webpro.js" crc="3848665353" ref="index:ot:contacto:tienda:home"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:ot:tienda:home"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:ot:tienda:home"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:ot:tienda:home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="home"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="require.js" crc="244322403" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="form_check.php" crc="158155501" ref="contacto:tienda"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto:tienda"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto:tienda"/>
     <file name="form-u3812.php" crc="71842377" ref="contacto"/>
-    <file name="form-u9851.php" crc="330623546" ref="tienda"/>
+    <file name="form-u9851.php" crc="192110907" ref="tienda"/>
   </folder>
   <folder name="images">
-    <file name="sombra.png" crc="147857237" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="u2849-4.png" crc="4257774647" ref="index"/>
-    <file name="ana guerra firma dorado copia copia.png" crc="467613662" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="u2853-4.png" crc="4289836335" ref="index"/>
-    <file name="contactos.jpg" crc="4082221053" seo="true" ref="index:contacto"/>
-    <file name="blank.gif" crc="4208392903" ref="index:ot"/>
-    <file name="inicio1.jpg" crc="116033550" seo="true" ref="index"/>
-    <file name="sasa.jpg" crc="160970364" seo="true" ref="index:fansclub"/>
-    <file name="tueda-.jpg" crc="427091677" seo="true" ref="index:tienda"/>
-    <file name="leeee.jpg" crc="4214687377" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:ot"/>
-    <file name="u2828-5-a.png" crc="4065411825" ref="index"/>
-    <file name="u10236-4.png" crc="3840330699" ref="index"/>
-    <file name="u10237-4.png" crc="3955333873" ref="index"/>
-    <file name="u13942-4.png" crc="3974626789" ref="index"/>
-    <file name="concierto 1ç.png" crc="215351842" seo="true" ref="index"/>
-    <file name="u14019.png" crc="3864104010" ref="index"/>
-    <file name="u14019-r.png" crc="244723159" ref="index"/>
-    <file name="concierto 2ç.png" crc="230943567" seo="true" ref="index"/>
-    <file name="u14039.png" crc="130615426" ref="index"/>
-    <file name="u14039-r.png" crc="513904070" ref="index"/>
-    <file name="ppl.png" crc="3798304330" seo="true" ref="index"/>
-    <file name="u2646-4.png" crc="168650843" ref="index"/>
-    <file name="u10220-4.png" crc="353117319" ref="index"/>
-    <file name="u10221-4.png" crc="3955333873" ref="index"/>
-    <file name="ghh.jpg" crc="4166484474" ref="index"/>
-    <file name="tw.jpg" crc="4244137803" ref="index"/>
-    <file name="sssssss.jpg" crc="490341801" ref="index"/>
-    <file name="u1870-4.png" crc="3923203401" ref="index"/>
-    <file name="at an.png" crc="463533765" seo="true" ref="index"/>
-    <file name="u14487.png" crc="245430225" ref="index"/>
-    <file name="u14487-r.png" crc="118265607" ref="index"/>
-    <file name="u14487-m.png" crc="3846179583" ref="index"/>
-    <file name="u14487-a.png" crc="3846179583" ref="index"/>
-    <file name="u14489.png" crc="3882002556" ref="index"/>
-    <file name="u14489-r.png" crc="515089403" ref="index"/>
-    <file name="u14489-m.png" crc="4012726358" ref="index"/>
-    <file name="u14489-a.png" crc="4012726358" ref="index"/>
-    <file name="19 (3).jpg" crc="3888499095" seo="true" ref="index:ot"/>
+    <file name="sombra.png" crc="147857237" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="u2849-4.png" crc="4257774647" ref="home"/>
+    <file name="ana guerra firma dorado copia copia.png" crc="467613662" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="u2853-4.png" crc="4289836335" ref="home"/>
+    <file name="contactos.jpg" crc="4082221053" seo="true" ref="contacto:home"/>
+    <file name="blank.gif" crc="4208392903" ref="index:ot:home"/>
+    <file name="inicio1.jpg" crc="116033550" seo="true" ref="home"/>
+    <file name="sasa.jpg" crc="160970364" seo="true" ref="fansclub:home"/>
+    <file name="tueda-.jpg" crc="427091677" seo="true" ref="tienda:home"/>
+    <file name="leeee.jpg" crc="4214687377" seo="true" ref="home"/>
+    <file name="loading.gif" crc="3815509949" ref="index:ot:home"/>
+    <file name="u2828-5-a.png" crc="4065411825" ref="home"/>
+    <file name="u10236-4.png" crc="3840330699" ref="home"/>
+    <file name="u10237-4.png" crc="3955333873" ref="home"/>
+    <file name="u13942-4.png" crc="3974626789" ref="home"/>
+    <file name="concierto 1ç.png" crc="215351842" seo="true" ref="home"/>
+    <file name="u14019.png" crc="3864104010" ref="home"/>
+    <file name="u14019-r.png" crc="244723159" ref="home"/>
+    <file name="concierto 2ç.png" crc="230943567" seo="true" ref="home"/>
+    <file name="u14039.png" crc="130615426" ref="home"/>
+    <file name="u14039-r.png" crc="513904070" ref="home"/>
+    <file name="ppl.png" crc="3798304330" seo="true" ref="home"/>
+    <file name="u2646-4.png" crc="168650843" ref="home"/>
+    <file name="u10220-4.png" crc="353117319" ref="home"/>
+    <file name="u10221-4.png" crc="3955333873" ref="home"/>
+    <file name="ghh.jpg" crc="4166484474" ref="home"/>
+    <file name="tw.jpg" crc="4244137803" ref="home"/>
+    <file name="sssssss.jpg" crc="490341801" ref="home"/>
+    <file name="u1870-4.png" crc="3923203401" ref="home"/>
+    <file name="at an.png" crc="463533765" seo="true" ref="home"/>
+    <file name="u14487.png" crc="245430225" ref="home"/>
+    <file name="u14487-r.png" crc="118265607" ref="home"/>
+    <file name="u14487-m.png" crc="3846179583" ref="home"/>
+    <file name="u14487-a.png" crc="3846179583" ref="home"/>
+    <file name="u14489.png" crc="3882002556" ref="home"/>
+    <file name="u14489-r.png" crc="515089403" ref="home"/>
+    <file name="u14489-m.png" crc="4012726358" ref="home"/>
+    <file name="u14489-a.png" crc="4012726358" ref="home"/>
+    <file name="19 (3).jpg" crc="3888499095" seo="true" ref="ot:home"/>
     <file name="20 (3a9.jpg" crc="4086377088" seo="true" ref="ot"/>
-    <file name="up2.png" crc="3993396711" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="twww.png" crc="24062246" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="ins.png" crc="3802989776" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
-    <file name="asaas.png" crc="366401130" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía"/>
+    <file name="up2.png" crc="3993396711" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="twww.png" crc="24062246" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="ins.png" crc="3802989776" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
+    <file name="asaas.png" crc="366401130" seo="true" ref="fansclub:ot:contacto:tienda:biografía:home"/>
     <file name="u2979-4.png" crc="4289836335" ref="fansclub"/>
     <file name="u14050-4.png" crc="4257774647" ref="fansclub"/>
     <file name="u2967-5-a.png" crc="3952226995" ref="fansclub"/>
@@ -160,7 +161,7 @@
     <file name="0a (3).jpg" crc="3942128563" seo="true" ref="ot"/>
     <file name="0a (4)-crop-u12966.jpg" crc="3929783566" ref="ot"/>
     <file name="0a (5)-crop-u12992.jpg" crc="234497252" ref="ot"/>
-    <file name="0b (1).jpg" crc="365398158" seo="true" ref="ot"/>
+    <file name="0b (1).jpg" crc="51441272" seo="true" ref="ot"/>
     <file name="0b (2).jpg" crc="3801804121" seo="true" ref="ot"/>
     <file name="1.jpg" crc="79445731" seo="true" ref="ot"/>
     <file name="12.jpg" crc="4268389392" seo="true" ref="ot"/>
@@ -176,10 +177,10 @@
     <file name="16a.jpg" crc="245142610" seo="true" ref="ot"/>
     <file name="16b.jpg" crc="21839060" seo="true" ref="ot"/>
     <file name="16c.jpg" crc="3791711865" seo="true" ref="ot"/>
-    <file name="17 (1).jpg" crc="264014777" seo="true" ref="ot"/>
+    <file name="17 (1).jpg" crc="3916611198" seo="true" ref="ot"/>
     <file name="17 (2).jpg" crc="4005968561" seo="true" ref="ot"/>
-    <file name="17 (3).jpg" crc="22595817" seo="true" ref="ot"/>
-    <file name="17 (4).jpg" crc="3905542666" seo="true" ref="ot"/>
+    <file name="17 (3).jpg" crc="3943351269" seo="true" ref="ot"/>
+    <file name="17 (4).jpg" crc="39808347" seo="true" ref="ot"/>
     <file name="18.jpg" crc="4211298641" seo="true" ref="ot"/>
     <file name="19 (1).jpg" crc="4003339871" seo="true" ref="ot"/>
     <file name="19 (2).jpg" crc="4265439028" seo="true" ref="ot"/>
@@ -189,13 +190,13 @@
     <file name="20 (2).jpg" crc="342694693" seo="true" ref="ot"/>
     <file name="20 (3).jpg" crc="245245745" seo="true" ref="ot"/>
     <file name="21 (1).jpg" crc="3768985072" seo="true" ref="ot"/>
-    <file name="21 (2).jpg" crc="498125408" seo="true" ref="ot"/>
+    <file name="21 (2).jpg" crc="232791437" seo="true" ref="ot"/>
     <file name="0a (1)-crop-u12609.jpg" crc="271935183" ref="ot"/>
     <file name="0a (2)-crop-u12922.jpg" crc="139955344" ref="ot"/>
     <file name="0a (3)-crop-u12948.jpg" crc="490815663" ref="ot"/>
     <file name="0a (4)-crop-u12974.jpg" crc="65769404" ref="ot"/>
     <file name="0a (5)-crop-u13000.jpg" crc="264820401" ref="ot"/>
-    <file name="0b (1)68x45.jpg" crc="4260978702" seo="true" ref="ot"/>
+    <file name="0b (1)68x45.jpg" crc="443934527" seo="true" ref="ot"/>
     <file name="0b (2)68x45.jpg" crc="389347331" seo="true" ref="ot"/>
     <file name="168x45.jpg" crc="463898473" seo="true" ref="ot"/>
     <file name="1268x45.jpg" crc="3814419839" seo="true" ref="ot"/>
@@ -211,10 +212,10 @@
     <file name="16a68x45.jpg" crc="417341317" seo="true" ref="ot"/>
     <file name="16b71x45.jpg" crc="4163967031" seo="true" ref="ot"/>
     <file name="16c71x45.jpg" crc="4131059280" seo="true" ref="ot"/>
-    <file name="17 (1)68x45.jpg" crc="398873323" seo="true" ref="ot"/>
+    <file name="17 (1)68x45.jpg" crc="253654150" seo="true" ref="ot"/>
     <file name="17 (2)68x45.jpg" crc="3794807525" seo="true" ref="ot"/>
-    <file name="17 (3)68x45.jpg" crc="310291405" seo="true" ref="ot"/>
-    <file name="17 (4)68x45.jpg" crc="342858307" seo="true" ref="ot"/>
+    <file name="17 (3)68x45.jpg" crc="3883492045" seo="true" ref="ot"/>
+    <file name="17 (4)68x45.jpg" crc="4055744262" seo="true" ref="ot"/>
     <file name="1868x45.jpg" crc="3890858470" seo="true" ref="ot"/>
     <file name="19 (1)68x45.jpg" crc="4026747266" seo="true" ref="ot"/>
     <file name="19 (2)68x45.jpg" crc="3967797921" seo="true" ref="ot"/>
@@ -226,7 +227,7 @@
     <file name="20 (3)68x45.jpg" crc="4019696832" seo="true" ref="ot"/>
     <file name="20 (3a973x45.jpg" crc="380637372" seo="true" ref="ot"/>
     <file name="21 (1)62x45.jpg" crc="3964600818" seo="true" ref="ot"/>
-    <file name="21 (2)64x45.jpg" crc="3944768945" seo="true" ref="ot"/>
+    <file name="21 (2)64x45.jpg" crc="156381521" seo="true" ref="ot"/>
     <file name="u3604-4.png" crc="4289836335" ref="contacto"/>
     <file name="u14131-4.png" crc="4257774647" ref="contacto"/>
     <file name="u3555-5-a.png" crc="4200573966" ref="contacto"/>
@@ -250,22 +251,26 @@
     <file name="u9998-4.png" crc="47288926" ref="tienda"/>
     <file name="u9992-8.png" crc="4012382669" ref="tienda"/>
     <file name="f,eca.png" crc="293645822" seo="true" ref="tienda"/>
-    <file name="u14504-4.png" crc="3813433499" ref="index"/>
-    <file name="u14500-3.png" crc="4163905478" ref="index"/>
-    <file name="u15088-4.png" crc="4031484070" ref="index"/>
-    <file name="u15091.png" crc="3846388131" ref="index"/>
-    <file name="u15091-r.png" crc="3775457986" ref="index"/>
+    <file name="u14504-4.png" crc="352073007" ref="home"/>
+    <file name="u14500-3.png" crc="4163905478" ref="home"/>
     <file name="u14904-4.png" crc="4289836335" ref="biografía"/>
     <file name="u14884-4.png" crc="4257774647" ref="biografía"/>
-    <file name="u14892-5.png" crc="376712009" ref="biografía"/>
     <file name="u14886-4.png" crc="4056136744" ref="biografía"/>
     <file name="u14898-4.png" crc="291350980" ref="biografía"/>
     <file name="u15076-24.png" crc="4253152210" ref="biografía"/>
+    <file name="u14892-5-a.png" crc="376712009" ref="biografía"/>
+    <file name="entrada0.png" crc="4287468834" seo="true" ref="index"/>
+    <file name="entrada1.png" crc="4281010799" seo="true" ref="index"/>
+    <file name="entrada2.png" crc="3907150851" seo="true" ref="index"/>
+    <file name="entrada3.png" crc="4198744144" seo="true" ref="index"/>
+    <file name="entrada4.png" crc="207455741" seo="true" ref="index"/>
+    <file name="u16288-6.png" crc="4264154372" ref="index"/>
   </folder>
-  <file name="index.html" crc="185646145" seo="true" mt="1514374864523" redirect="true"/>
-  <file name="fansclub.html" crc="413013693" seo="true" mt="1514231666276" redirect="true"/>
-  <file name="ot.html" crc="321367365" seo="true" mt="1514231027992" redirect="true"/>
-  <file name="contacto.html" crc="45275027" seo="true" mt="1514373584496" redirect="true"/>
-  <file name="tienda.html" crc="4262810846" seo="true" mt="1514231759689" redirect="true"/>
-  <file name="biografía.html" crc="148571694" seo="true" mt="1514374974877" redirect="true"/>
+  <file name="index.html" crc="440273846" seo="true" mt="1514380647067" redirect="true"/>
+  <file name="fansclub.html" crc="422599179" seo="true" mt="1514379220233" redirect="true"/>
+  <file name="ot.html" crc="3881064688" seo="true" mt="1514379220195" redirect="true"/>
+  <file name="contacto.html" crc="231102763" seo="true" mt="1514379220240" redirect="true"/>
+  <file name="tienda.html" crc="3845068933" seo="true" mt="1514380770661" redirect="true"/>
+  <file name="biografía.html" crc="468395875" seo="true" mt="1514379220220" redirect="true"/>
+  <file name="home.html" crc="506987018" seo="true" mt="1514379220256" redirect="true"/>
 </manifest>
