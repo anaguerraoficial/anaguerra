@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514386072978">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514386732379">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="fansclub.css" crc="4157260510" ref="fansclub"/>
-    <file name="index.css" crc="506989841" ref="index"/>
-    <file name="contacto.css" crc="4268563395" ref="contacto"/>
-    <file name="ot.css" crc="486860220" ref="ot"/>
-    <file name="tienda.css" crc="173836714" ref="tienda"/>
+    <file name="index.css" crc="197798168" ref="index"/>
+    <file name="contacto.css" crc="4119791020" ref="contacto"/>
+    <file name="ot.css" crc="484021808" ref="ot"/>
+    <file name="tienda.css" crc="4028589466" ref="tienda"/>
     <file name="biograf_a.css" crc="4003996258" ref="biografía"/>
-    <file name="home.css" crc="3925189370" ref="home"/>
+    <file name="home.css" crc="127189680" ref="home"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -54,9 +54,9 @@
     <file name="jquery.watch.js" crc="104486786" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
     <file name="require.js" crc="244322403" ref="index:fansclub:ot:contacto:tienda:biografía:home"/>
-    <file name="form_check.php" crc="158155501" ref="contacto:tienda"/>
-    <file name="form_throttle.php" crc="3992970984" ref="contacto:tienda"/>
-    <file name="form_process.php" crc="4078697226" ref="contacto:tienda"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
     <file name="form-u3812.php" crc="71842377" ref="contacto"/>
     <file name="form-u9851.php" crc="192110907" ref="tienda"/>
   </folder>
@@ -271,11 +271,11 @@
     <file name="poster.png" crc="81671707" seo="true" ref="tienda"/>
     <file name="u17121-4.png" crc="412397312" ref="tienda"/>
   </folder>
-  <file name="index.html" crc="440273846" seo="true" mt="1514382751062" redirect="true"/>
+  <file name="index.html" crc="3804968709" seo="true" mt="1514386197006" redirect="true"/>
   <file name="fansclub.html" crc="4141293112" seo="true" mt="1514385594030" redirect="true"/>
-  <file name="ot.html" crc="4258436474" seo="true" mt="1514385594018" redirect="true"/>
-  <file name="contacto.html" crc="3867391546" seo="true" mt="1514385594022" redirect="true"/>
-  <file name="tienda.html" crc="4002091166" seo="true" mt="1514386046859" redirect="true"/>
+  <file name="ot.html" crc="234452140" seo="true" mt="1514386660634" redirect="true"/>
+  <file name="contacto.html" crc="494598015" seo="true" mt="1514386692786" redirect="true"/>
+  <file name="tienda.html" crc="3851471781" seo="true" mt="1514386688377" redirect="true"/>
   <file name="biografía.html" crc="165360078" seo="true" mt="1514385594026" redirect="true"/>
-  <file name="home.html" crc="3893460232" seo="true" mt="1514385594008" redirect="true"/>
+  <file name="home.html" crc="4105263853" seo="true" mt="1514386262713" redirect="true"/>
 </manifest>
