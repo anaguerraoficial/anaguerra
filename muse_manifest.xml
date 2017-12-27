@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Anaguerraoficial.com" resolutions="1x" timestamp="1514389263607">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514391696696">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -20,11 +20,11 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="fansclub.css" crc="384534765" ref="fansclub"/>
-    <file name="index.css" crc="197798168" ref="index"/>
+    <file name="index.css" crc="477454745" ref="index"/>
     <file name="contacto.css" crc="281313381" ref="contacto"/>
     <file name="ot.css" crc="4086758337" ref="ot"/>
-    <file name="tienda.css" crc="298902591" ref="tienda"/>
-    <file name="biograf_a.css" crc="4179337332" ref="biografía"/>
+    <file name="tienda.css" crc="4042818397" ref="tienda"/>
+    <file name="biograf_a.css" crc="375518450" ref="biografía"/>
     <file name="inicio.css" crc="240218977" ref="inicio"/>
   </folder>
   <folder name="assets">
@@ -75,8 +75,8 @@
     <file name="form_check.php" crc="158155501" ref="contacto"/>
     <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
     <file name="form_process.php" crc="4078697226" ref="contacto"/>
-    <file name="form-u3812.php" crc="71842377" ref="contacto"/>
-    <file name="form-u9851.php" crc="192110907" ref="tienda"/>
+    <file name="form-u3812.php" crc="4189412777" ref="contacto"/>
+    <file name="form-u9851.php" crc="426092090" ref="tienda"/>
   </folder>
   <folder name="images">
     <file name="sombra.png" crc="147857237" seo="true" ref="fansclub:ot:contacto:tienda:biografía:inicio"/>
@@ -264,18 +264,16 @@
     <file name="ay ana negra-crop-u9541.jpg" crc="3934906563" ref="tienda"/>
     <file name="wblanca-crop-u9569.jpg" crc="11716556" ref="tienda"/>
     <file name="wnegra-crop-u9573.jpg" crc="3781324271" ref="tienda"/>
-    <file name="15 - g.png" crc="79226900" seo="true" ref="tienda"/>
+    <file name="15 - g.png" crc="4035211087" seo="true" ref="tienda"/>
     <file name="u9983-4.png" crc="390113284" ref="tienda"/>
     <file name="u9998-4.png" crc="4089697296" ref="tienda"/>
-    <file name="u9992-8.png" crc="4012382669" ref="tienda"/>
-    <file name="f,eca.png" crc="293645822" seo="true" ref="tienda"/>
+    <file name="u9992-8.png" crc="332213748" ref="tienda"/>
     <file name="u14504-4.png" crc="352073007" ref="inicio"/>
     <file name="u14500-3.png" crc="4163905478" ref="inicio"/>
     <file name="u14904-4.png" crc="4289836335" ref="biografía"/>
     <file name="u14884-4.png" crc="4257774647" ref="biografía"/>
     <file name="u14886-4.png" crc="4056136744" ref="biografía"/>
     <file name="u14898-4.png" crc="291350980" ref="biografía"/>
-    <file name="u15076-24.png" crc="4253152210" ref="biografía"/>
     <file name="u14892-5-a.png" crc="376712009" ref="biografía"/>
     <file name="entrada0.png" crc="4287468834" seo="true" ref="index"/>
     <file name="entrada1.png" crc="4281010799" seo="true" ref="index"/>
@@ -286,16 +284,18 @@
     <file name="u17115-4.png" crc="146365569" ref="tienda"/>
     <file name="a3.jpg" crc="5069849" seo="true" ref="tienda"/>
     <file name="def.jpg" crc="242544838" seo="true" ref="tienda"/>
-    <file name="poster.png" crc="4010899337" seo="true" ref="tienda"/>
     <file name="u17121-4.png" crc="412397312" ref="tienda"/>
     <file name="u3350-4.png" crc="4096762833" ref="ot"/>
     <file name="u3361-4.png" crc="4023293032" ref="ot"/>
+    <file name="15 - g2.png" crc="79226900" seo="true" ref="tienda"/>
+    <file name="u15076-44.png" crc="492980683" ref="biografía"/>
+    <file name="bioooo.jpg" crc="4111651827" seo="true" ref="biografía"/>
   </folder>
-  <file name="index.html" crc="3836236886" seo="true" mt="1514389120942" redirect="true"/>
+  <file name="index.html" crc="3786823371" seo="true" mt="1514390670602" redirect="true"/>
   <file name="fansclub.html" crc="467370969" seo="true" mt="1514389179036" redirect="true"/>
   <file name="ot.html" crc="270306299" seo="true" mt="1514389120911" redirect="true"/>
-  <file name="contacto.html" crc="4185781074" seo="true" mt="1514389203271" redirect="true"/>
-  <file name="tienda.html" crc="224297172" seo="true" mt="1514389196495" redirect="true"/>
-  <file name="biografía.html" crc="213214027" seo="true" mt="1514389172449" redirect="true"/>
+  <file name="contacto.html" crc="4171298446" seo="true" mt="1514391079119" redirect="true"/>
+  <file name="tienda.html" crc="363102986" seo="true" mt="1514391097381" redirect="true"/>
+  <file name="biografía.html" crc="3818016537" seo="true" mt="1514391667314" redirect="true"/>
   <file name="inicio.html" crc="3798340573" seo="true" mt="1514389120973" redirect="true"/>
 </manifest>
