@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514386732379">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.anawar.es" resolutions="1x" timestamp="1514387474423">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="fansclub.css" crc="4157260510" ref="fansclub"/>
+    <file name="fansclub.css" crc="384534765" ref="fansclub"/>
     <file name="index.css" crc="197798168" ref="index"/>
-    <file name="contacto.css" crc="4119791020" ref="contacto"/>
-    <file name="ot.css" crc="484021808" ref="ot"/>
-    <file name="tienda.css" crc="4028589466" ref="tienda"/>
-    <file name="biograf_a.css" crc="4003996258" ref="biografía"/>
-    <file name="home.css" crc="127189680" ref="home"/>
+    <file name="contacto.css" crc="324823480" ref="contacto"/>
+    <file name="ot.css" crc="4103616903" ref="ot"/>
+    <file name="tienda.css" crc="298902591" ref="tienda"/>
+    <file name="biograf_a.css" crc="4179337332" ref="biografía"/>
+    <file name="home.css" crc="240218977" ref="home"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -268,14 +268,14 @@
     <file name="u17115-4.png" crc="146365569" ref="tienda"/>
     <file name="a3.jpg" crc="5069849" seo="true" ref="tienda"/>
     <file name="def.jpg" crc="242544838" seo="true" ref="tienda"/>
-    <file name="poster.png" crc="81671707" seo="true" ref="tienda"/>
+    <file name="poster.png" crc="4010899337" seo="true" ref="tienda"/>
     <file name="u17121-4.png" crc="412397312" ref="tienda"/>
   </folder>
   <file name="index.html" crc="3804968709" seo="true" mt="1514386197006" redirect="true"/>
-  <file name="fansclub.html" crc="4141293112" seo="true" mt="1514385594030" redirect="true"/>
-  <file name="ot.html" crc="234452140" seo="true" mt="1514386660634" redirect="true"/>
-  <file name="contacto.html" crc="494598015" seo="true" mt="1514386692786" redirect="true"/>
-  <file name="tienda.html" crc="3851471781" seo="true" mt="1514386688377" redirect="true"/>
-  <file name="biografía.html" crc="165360078" seo="true" mt="1514385594026" redirect="true"/>
-  <file name="home.html" crc="4105263853" seo="true" mt="1514386262713" redirect="true"/>
+  <file name="fansclub.html" crc="297756968" seo="true" mt="1514387379194" redirect="true"/>
+  <file name="ot.html" crc="469139966" seo="true" mt="1514387407255" redirect="true"/>
+  <file name="contacto.html" crc="499145021" seo="true" mt="1514387421727" redirect="true"/>
+  <file name="tienda.html" crc="436726677" seo="true" mt="1514387415429" redirect="true"/>
+  <file name="biografía.html" crc="475002429" seo="true" mt="1514387287180" redirect="true"/>
+  <file name="home.html" crc="4182981880" seo="true" mt="1514387370879" redirect="true"/>
 </manifest>
