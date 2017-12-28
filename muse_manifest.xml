@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514495454599">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514495887738">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -25,7 +25,7 @@
     <file name="ot.css" crc="498321541" ref="ot"/>
     <file name="tienda.css" crc="204108518" ref="tienda"/>
     <file name="biograf_a.css" crc="4007921143" ref="biografía"/>
-    <file name="inicio.css" crc="4015793564" ref="inicio"/>
+    <file name="inicio.css" crc="4229793565" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -323,5 +323,5 @@
   <file name="contacto.html" crc="3942233112" seo="true" mt="1514476623847" redirect="true"/>
   <file name="tienda.html" crc="3941675716" seo="true" mt="1514462759635" redirect="true"/>
   <file name="biografía.html" crc="3938719601" seo="true" mt="1514492434102" redirect="true"/>
-  <file name="inicio.html" crc="4159745926" seo="true" mt="1514495121603" redirect="true"/>
+  <file name="inicio.html" crc="4011821129" seo="true" mt="1514495849440" redirect="true"/>
 </manifest>
