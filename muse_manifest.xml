@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514495140486">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514495454599">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -20,7 +20,7 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="fansclub.css" crc="3814886480" ref="fansclub"/>
-    <file name="index.css" crc="215106001" ref="index"/>
+    <file name="index.css" crc="4294427929" ref="index"/>
     <file name="contacto.css" crc="270715359" ref="contacto"/>
     <file name="ot.css" crc="498321541" ref="ot"/>
     <file name="tienda.css" crc="204108518" ref="tienda"/>
@@ -315,10 +315,9 @@
     <file name="j2-crop-u18810.jpg" crc="4246749600" ref="biografía"/>
     <file name="j3-crop-u18836.jpg" crc="72998110" ref="biografía"/>
     <file name="j4-crop-u18862.jpg" crc="201543274" ref="biografía"/>
-    <file name="gggg.gif" crc="374331462" seo="true" ref="index"/>
     <file name="fdsd copia.png" crc="3779410358" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="505149888" seo="true" mt="1514493638326" redirect="true"/>
+  <file name="index.html" crc="3801568580" seo="true" mt="1514495437426" redirect="true"/>
   <file name="fansclub.html" crc="3822691896" seo="true" mt="1514473908449" redirect="true"/>
   <file name="ot.html" crc="4102008098" seo="true" mt="1514493493184" redirect="true"/>
   <file name="contacto.html" crc="3942233112" seo="true" mt="1514476623847" redirect="true"/>
