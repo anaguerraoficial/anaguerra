@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514462782507">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514476276858">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -19,13 +19,13 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="fansclub.css" crc="384534765" ref="fansclub"/>
+    <file name="fansclub.css" crc="3814886480" ref="fansclub"/>
     <file name="index.css" crc="96224152" ref="index"/>
     <file name="contacto.css" crc="281313381" ref="contacto"/>
-    <file name="ot.css" crc="4086758337" ref="ot"/>
+    <file name="ot.css" crc="4180590352" ref="ot"/>
     <file name="tienda.css" crc="204108518" ref="tienda"/>
-    <file name="biograf_a.css" crc="375518450" ref="biografía"/>
-    <file name="inicio.css" crc="240218977" ref="inicio"/>
+    <file name="biograf_a.css" crc="3877312574" ref="biografía"/>
+    <file name="inicio.css" crc="3824251997" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -57,6 +57,12 @@
     <file name="fanart52.jpg" crc="110152416" seo="true" mt="1514069364000"/>
     <file name="fanart8.jpg" crc="137489831" seo="true" mt="1514221480000"/>
     <file name="the-last-bikina-.jpg" crc="200340907" seo="true" mt="1514221346000"/>
+    <file name="dib3.jpeg" crc="350907374" seo="true" mt="1514473785000"/>
+    <file name="ana-favorita.jpg" crc="3844615283" seo="true" mt="1514249852000"/>
+    <file name="fav7d.jpg" crc="246095791" seo="true" mt="1512676402000"/>
+    <file name="faaaaaaaa.jpg" crc="4179775611" seo="true" mt="1514475011000"/>
+    <file name="favvv2.jpg" crc="153104846" seo="true" mt="1514475536000"/>
+    <file name="favvv-copia.jpg" crc="451065928" seo="true" mt="1514476181000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio"/>
@@ -164,10 +170,10 @@
     <file name="u3310-4.png" crc="450088290" ref="ot"/>
     <file name="u3407-4.png" crc="450088290" ref="ot"/>
     <file name="u3410-4.png" crc="26333549" ref="ot"/>
-    <file name="fav1.jpg" crc="4076637297" seo="true" ref="ot"/>
-    <file name="fav2.jpg" crc="4288595537" seo="true" ref="ot"/>
-    <file name="fav3.jpg" crc="4285471663" seo="true" ref="ot"/>
-    <file name="fac4.jpg" crc="3962932652" seo="true" ref="ot"/>
+    <file name="fav1.jpg" crc="21492505" seo="true" ref="ot"/>
+    <file name="fav2.jpg" crc="445221966" seo="true" ref="ot"/>
+    <file name="fav3.jpg" crc="273845312" seo="true" ref="ot"/>
+    <file name="fac4.jpg" crc="238826625" seo="true" ref="ot"/>
     <file name="min4.jpg" crc="351459807" seo="true" ref="ot"/>
     <file name="min2.jpg" crc="231422562" seo="true" ref="ot"/>
     <file name="min3.jpg" crc="151032604" seo="true" ref="ot"/>
@@ -290,12 +296,24 @@
     <file name="u15076-44.png" crc="492980683" ref="biografía"/>
     <file name="bioooo.jpg" crc="4111651827" seo="true" ref="biografía"/>
     <file name="15 - g copia.png" crc="370404949" seo="true" ref="tienda"/>
+    <file name="u17974.png" crc="3998990833" ref="fansclub"/>
+    <file name="u17974-r.png" crc="495730760" ref="fansclub"/>
+    <file name="u17984-4.png" crc="3995664391" ref="fansclub"/>
+    <file name="min7.jpg" crc="391295003" seo="true" ref="ot"/>
+    <file name="min9.jpg" crc="4254683367" seo="true" ref="ot"/>
+    <file name="min10.jpg" crc="530412545" seo="true" ref="ot"/>
+    <file name="min11.jpg" crc="335847624" seo="true" ref="ot"/>
+    <file name="min12.jpg" crc="3914199932" seo="true" ref="ot"/>
+    <file name="w2.jpg" crc="108477940" seo="true" ref="ot"/>
+    <file name="w4.jpg" crc="3909960052" seo="true" ref="ot"/>
+    <file name="w260x49.jpg" crc="205405087" seo="true" ref="ot"/>
+    <file name="w468x45.jpg" crc="3891787856" seo="true" ref="ot"/>
   </folder>
   <file name="index.html" crc="4240234314" seo="true" mt="1514391929756" redirect="true"/>
-  <file name="fansclub.html" crc="467370969" seo="true" mt="1514389179036" redirect="true"/>
-  <file name="ot.html" crc="270306299" seo="true" mt="1514389120911" redirect="true"/>
+  <file name="fansclub.html" crc="3822691896" seo="true" mt="1514473908449" redirect="true"/>
+  <file name="ot.html" crc="311922930" seo="true" mt="1514476242028" redirect="true"/>
   <file name="contacto.html" crc="4171298446" seo="true" mt="1514391079119" redirect="true"/>
   <file name="tienda.html" crc="3941675716" seo="true" mt="1514462759635" redirect="true"/>
-  <file name="biografía.html" crc="3818016537" seo="true" mt="1514391667314" redirect="true"/>
-  <file name="inicio.html" crc="3798340573" seo="true" mt="1514389120973" redirect="true"/>
+  <file name="biografía.html" crc="402727918" seo="true" mt="1514473947368" redirect="true"/>
+  <file name="inicio.html" crc="4056544654" seo="true" mt="1514473694774" redirect="true"/>
 </manifest>
