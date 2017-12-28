@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://anaguerraoficial.com/index.html</loc>
-    <lastmod>2017-12-27</lastmod>
+    <lastmod>2017-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -463,6 +463,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anaguerraoficial.com/images/14%20(1).jpg</loc>
+    <lastmod>2017-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anaguerraoficial.com/assets/altanera-blanca.jpg</loc>
     <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>http://anaguerraoficial.com/assets/altanera-negra.jpg</loc>
     <lastmod>2017-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/14%20(3).jpg</loc>
-    <lastmod>2017-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -895,6 +895,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anaguerraoficial.com/images/gggg.gif</loc>
+    <lastmod>2017-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/fdsd%20copia.png</loc>
+    <lastmod>2017-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anaguerraoficial.com/assets/aa.mp4</loc>
     <lastmod>2017-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -925,13 +937,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/14%20(1).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
     <lastmod>2017-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(3).jpg</loc>
     <lastmod>2017-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
