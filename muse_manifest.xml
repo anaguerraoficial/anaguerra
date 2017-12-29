@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514495887738">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514507447895">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="279237556" ref="phone>home"/>
@@ -23,7 +23,7 @@
     <file name="index.css" crc="4294427929" ref="index"/>
     <file name="contacto.css" crc="270715359" ref="contacto"/>
     <file name="ot.css" crc="498321541" ref="ot"/>
-    <file name="tienda.css" crc="204108518" ref="tienda"/>
+    <file name="tienda.css" crc="3947376532" ref="tienda"/>
     <file name="biograf_a.css" crc="4007921143" ref="biografía"/>
     <file name="inicio.css" crc="4229793565" ref="inicio"/>
   </folder>
@@ -78,11 +78,10 @@
     <file name="jquery.watch.js" crc="104486786" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio"/>
     <file name="html5shiv.js" crc="4241844378" ref="fansclub:ot:contacto:tienda:biografía:inicio"/>
     <file name="require.js" crc="244322403" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio"/>
-    <file name="form_check.php" crc="158155501" ref="contacto:tienda"/>
-    <file name="form_throttle.php" crc="3992970984" ref="contacto:tienda"/>
-    <file name="form_process.php" crc="4078697226" ref="contacto:tienda"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
     <file name="form-u3812.php" crc="4189412777" ref="contacto"/>
-    <file name="form-u9851.php" crc="426092090" ref="tienda"/>
   </folder>
   <folder name="images">
     <file name="sombra.png" crc="147857237" seo="true" ref="fansclub:ot:contacto:tienda:biografía:inicio"/>
@@ -272,8 +271,7 @@
     <file name="wnegra-crop-u9573.jpg" crc="3781324271" ref="tienda"/>
     <file name="15 - g.png" crc="4035211087" seo="true" ref="tienda"/>
     <file name="u9983-4.png" crc="390113284" ref="tienda"/>
-    <file name="u9998-4.png" crc="4089697296" ref="tienda"/>
-    <file name="u9992-8.png" crc="332213748" ref="tienda"/>
+    <file name="u9998-4.png" crc="4278226491" ref="tienda"/>
     <file name="u14504-4.png" crc="352073007" ref="inicio"/>
     <file name="u14500-3.png" crc="4163905478" ref="inicio"/>
     <file name="u14904-4.png" crc="4289836335" ref="biografía"/>
@@ -316,12 +314,13 @@
     <file name="j3-crop-u18836.jpg" crc="72998110" ref="biografía"/>
     <file name="j4-crop-u18862.jpg" crc="201543274" ref="biografía"/>
     <file name="fdsd copia.png" crc="3779410358" seo="true" ref="index"/>
+    <file name="u9992-10.png" crc="3806802414" ref="tienda"/>
   </folder>
   <file name="index.html" crc="3801568580" seo="true" mt="1514495437426" redirect="true"/>
   <file name="fansclub.html" crc="3822691896" seo="true" mt="1514473908449" redirect="true"/>
   <file name="ot.html" crc="4102008098" seo="true" mt="1514493493184" redirect="true"/>
   <file name="contacto.html" crc="3942233112" seo="true" mt="1514476623847" redirect="true"/>
-  <file name="tienda.html" crc="3941675716" seo="true" mt="1514462759635" redirect="true"/>
+  <file name="tienda.html" crc="326876540" seo="true" mt="1514507426152" redirect="true"/>
   <file name="biografía.html" crc="3938719601" seo="true" mt="1514492434102" redirect="true"/>
   <file name="inicio.html" crc="4011821129" seo="true" mt="1514495849440" redirect="true"/>
 </manifest>
