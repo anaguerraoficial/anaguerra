@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/phone/home.html</loc>
-    <lastmod>2017-12-27</lastmod>
+    <loc>http://anaguerraoficial.com/inicio.html</loc>
+    <lastmod>2017-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/inicio.html</loc>
-    <lastmod>2017-12-30</lastmod>
+    <loc>http://anaguerraoficial.com/phone/home.html</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -901,6 +901,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anaguerraoficial.com/images/j6.jpg</loc>
+    <lastmod>2017-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anaguerraoficial.com/assets/aa.mp4</loc>
     <lastmod>2017-09-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -931,13 +937,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/14%20(3).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
     <lastmod>2017-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(3).jpg</loc>
     <lastmod>2017-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
