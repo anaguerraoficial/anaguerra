@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514664970322">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514900830773">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -41,9 +41,9 @@
     <file name="index.css" crc="3885031794" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
     <file name="ot.css" crc="4114315927" ref="ot"/>
-    <file name="tienda.css" crc="4180455446" ref="tienda"/>
+    <file name="tienda.css" crc="4126296100" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="inicio.css" crc="252229663" ref="inicio"/>
+    <file name="inicio.css" crc="134976686" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -338,18 +338,22 @@
     <file name="u14491-r.png" crc="4254564868" ref="inicio"/>
     <file name="u14491-m.png" crc="4128178656" ref="inicio"/>
     <file name="u14491-a.png" crc="4128178656" ref="inicio"/>
-    <file name="anaaaa-crop-u14502.jpg" crc="492700691" ref="inicio"/>
+    <file name="anaaaa-crop-u14502.jpg" crc="327359195" ref="inicio"/>
     <file name="u14504-12.png" crc="406819206" ref="inicio"/>
     <file name="u19572.png" crc="4114309582" ref="tienda"/>
     <file name="u19572-r.png" crc="177638100" ref="tienda"/>
     <file name="j5-crop-u19624.jpg" crc="57009173" ref="biografía"/>
     <file name="j6.jpg" crc="4101125122" seo="true" ref="biografía"/>
+    <file name="u19721_states.png" crc="4270756096" ref="inicio"/>
+    <file name="u19721_states-r.png" crc="4016197356" ref="inicio"/>
+    <file name="u19733_states.png" crc="386380414" ref="inicio"/>
+    <file name="u19733_states-r.png" crc="3873212329" ref="inicio"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
   <file name="ot.html" crc="4219367409" seo="true" mt="1514647110146" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
-  <file name="tienda.html" crc="3938120685" seo="true" mt="1514664950298" redirect="true"/>
+  <file name="tienda.html" crc="4262360648" seo="true" mt="1514665203603" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
-  <file name="inicio.html" crc="3874893709" seo="true" mt="1514656676332" redirect="true"/>
+  <file name="inicio.html" crc="4030599709" seo="true" mt="1514900797433" redirect="true"/>
 </manifest>
