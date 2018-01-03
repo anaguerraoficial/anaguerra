@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514978654662">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515013051489">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -40,10 +40,10 @@
     <file name="fansclub.css" crc="184029721" ref="fansclub"/>
     <file name="index.css" crc="3885031794" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
-    <file name="ot.css" crc="4088828607" ref="ot"/>
+    <file name="ot.css" crc="3970357186" ref="ot"/>
     <file name="tienda.css" crc="4126296100" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="inicio.css" crc="134976686" ref="inicio"/>
+    <file name="inicio.css" crc="4206134880" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -81,6 +81,8 @@
     <file name="faaaaaaaa.jpg" crc="4179775611" seo="true" mt="1514475011000"/>
     <file name="favvv2.jpg" crc="153104846" seo="true" mt="1514475536000"/>
     <file name="favvv-copia.jpg" crc="451065928" seo="true" mt="1514476181000"/>
+    <file name="lineas-recargas2.jpg" crc="331414760" seo="true" mt="1514990334000"/>
+    <file name="lineas-de-recargas3.jpg" crc="4079896414" seo="true" mt="1514993647000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía"/>
@@ -187,21 +189,17 @@
     <file name="u3310-4.png" crc="450088290" ref="ot"/>
     <file name="u3407-4.png" crc="450088290" ref="ot"/>
     <file name="u3410-4.png" crc="26333549" ref="ot"/>
-    <file name="fav1.jpg" crc="21492505" seo="true" ref="ot"/>
-    <file name="fav2.jpg" crc="445221966" seo="true" ref="ot"/>
-    <file name="fav3.jpg" crc="273845312" seo="true" ref="ot"/>
-    <file name="fac4.jpg" crc="238826625" seo="true" ref="ot"/>
     <file name="min4.jpg" crc="351459807" seo="true" ref="ot"/>
     <file name="min2.jpg" crc="231422562" seo="true" ref="ot"/>
     <file name="min3.jpg" crc="151032604" seo="true" ref="ot"/>
     <file name="miniat.jpg" crc="152922126" seo="true" ref="ot"/>
     <file name="u7058-4.png" crc="450088290" ref="ot"/>
     <file name="u7059-4.png" crc="3780099559" ref="ot"/>
-    <file name="0a (1)-crop-u12617.jpg" crc="4279078262" ref="ot"/>
+    <file name="0a (1)-crop-u12617.jpg" crc="4109062010" ref="ot"/>
     <file name="0a (2).jpg" crc="432925759" seo="true" ref="ot"/>
     <file name="0a (3).jpg" crc="3942128563" seo="true" ref="ot"/>
-    <file name="0a (4)-crop-u12966.jpg" crc="3929783566" ref="ot"/>
-    <file name="0a (5)-crop-u12992.jpg" crc="234497252" ref="ot"/>
+    <file name="0a (4)-crop-u12966.jpg" crc="131437228" ref="ot"/>
+    <file name="0a (5)-crop-u12992.jpg" crc="297098639" ref="ot"/>
     <file name="0b (1).jpg" crc="51441272" seo="true" ref="ot"/>
     <file name="0b (2).jpg" crc="3801804121" seo="true" ref="ot"/>
     <file name="1.jpg" crc="79445731" seo="true" ref="ot"/>
@@ -284,7 +282,6 @@
     <file name="15 - g.png" crc="4035211087" seo="true" ref="tienda"/>
     <file name="u9983-4.png" crc="4272105561" ref="tienda"/>
     <file name="u9998-4.png" crc="4278226491" ref="tienda"/>
-    <file name="u14500-3.png" crc="4163905478" ref="inicio"/>
     <file name="u14904-4.png" crc="4289836335" ref="biografía"/>
     <file name="u14884-4.png" crc="4257774647" ref="biografía"/>
     <file name="u14886-4.png" crc="4056136744" ref="biografía"/>
@@ -300,17 +297,11 @@
     <file name="a3.jpg" crc="5069849" seo="true" ref="tienda"/>
     <file name="def.jpg" crc="4031540834" seo="true" ref="tienda"/>
     <file name="u3350-4.png" crc="4096762833" ref="ot"/>
-    <file name="u3361-4.png" crc="4023293032" ref="ot"/>
     <file name="u15076-44.png" crc="4116623510" ref="biografía"/>
     <file name="bioooo.jpg" crc="4111651827" seo="true" ref="biografía"/>
     <file name="u17974.png" crc="3998990833" ref="fansclub"/>
     <file name="u17974-r.png" crc="495730760" ref="fansclub"/>
     <file name="u17984-4.png" crc="3995664391" ref="fansclub"/>
-    <file name="min7.jpg" crc="391295003" seo="true" ref="ot"/>
-    <file name="min9.jpg" crc="4254683367" seo="true" ref="ot"/>
-    <file name="min10.jpg" crc="530412545" seo="true" ref="ot"/>
-    <file name="min11.jpg" crc="335847624" seo="true" ref="ot"/>
-    <file name="min12.jpg" crc="3914199932" seo="true" ref="ot"/>
     <file name="w2.jpg" crc="108477940" seo="true" ref="ot"/>
     <file name="w4.jpg" crc="3909960052" seo="true" ref="ot"/>
     <file name="w260x49.jpg" crc="205405087" seo="true" ref="ot"/>
@@ -348,18 +339,23 @@
     <file name="u19721_states-r.png" crc="4016197356" ref="inicio"/>
     <file name="u19733_states.png" crc="386380414" ref="inicio"/>
     <file name="u19733_states-r.png" crc="3873212329" ref="inicio"/>
-    <file name="22 (1).jpg" crc="4191101677" seo="true" ref="ot"/>
-    <file name="22 (3).jpg" crc="242041655" seo="true" ref="ot"/>
-    <file name="22.jpg" crc="467954560" seo="true" ref="ot"/>
-    <file name="22 (1)60x45.jpg" crc="485907559" seo="true" ref="ot"/>
-    <file name="22 (3)66x45.jpg" crc="3912334460" seo="true" ref="ot"/>
+    <file name="22 (1).jpg" crc="3992942901" seo="true" ref="ot"/>
+    <file name="22 (3).jpg" crc="3828221360" seo="true" ref="ot"/>
+    <file name="22.jpg" crc="467954560" seo="true" ref="inicio"/>
+    <file name="22 (1)60x45.jpg" crc="3978760155" seo="true" ref="ot"/>
+    <file name="22 (3)66x45.jpg" crc="337358210" seo="true" ref="ot"/>
     <file name="22-crop-u19836.jpg" crc="4212858397" ref="ot"/>
+    <file name="lineas de recargas3.jpg" crc="4218181329" seo="true" ref="inicio"/>
+    <file name="u14500-12.png" crc="4116045061" ref="inicio"/>
+    <file name="min13.jpg" crc="190919987" seo="true" ref="ot"/>
+    <file name="min14.jpg" crc="3943948459" seo="true" ref="ot"/>
+    <file name="22-crop-u19830.jpg" crc="3759663848" ref="ot"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
-  <file name="ot.html" crc="3769014801" seo="true" mt="1514978623831" redirect="true"/>
+  <file name="ot.html" crc="4112273536" seo="true" mt="1515013023063" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
   <file name="tienda.html" crc="4262360648" seo="true" mt="1514665203603" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
-  <file name="inicio.html" crc="4030599709" seo="true" mt="1514900797433" redirect="true"/>
+  <file name="inicio.html" crc="315245381" seo="true" mt="1515012974420" redirect="true"/>
 </manifest>

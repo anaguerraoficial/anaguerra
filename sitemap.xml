@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/inicio.html</loc>
-    <lastmod>2018-01-02</lastmod>
+    <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -217,6 +217,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anaguerraoficial.com/assets/lineas-recargas2.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/assets/lineas-de-recargas3.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anaguerraoficial.com/images/sombra.png</loc>
     <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -344,30 +356,6 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/images/otttt.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/fav1.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/fav2.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/fav3.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/fac4.jpg</loc>
     <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -835,36 +823,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/min7.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/min9.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/min10.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/min11.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/min12.jpg</loc>
-    <lastmod>2018-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://anaguerraoficial.com/images/w2.jpg</loc>
     <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -932,6 +890,24 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/images/22%20(3)66x45.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/lineas%20de%20recargas3.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/min13.jpg</loc>
+    <lastmod>2018-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/min14.jpg</loc>
     <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
