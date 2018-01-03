@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514900830773">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1514978654662">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -40,7 +40,7 @@
     <file name="fansclub.css" crc="184029721" ref="fansclub"/>
     <file name="index.css" crc="3885031794" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
-    <file name="ot.css" crc="4114315927" ref="ot"/>
+    <file name="ot.css" crc="4088828607" ref="ot"/>
     <file name="tienda.css" crc="4126296100" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="inicio.css" crc="134976686" ref="inicio"/>
@@ -348,10 +348,16 @@
     <file name="u19721_states-r.png" crc="4016197356" ref="inicio"/>
     <file name="u19733_states.png" crc="386380414" ref="inicio"/>
     <file name="u19733_states-r.png" crc="3873212329" ref="inicio"/>
+    <file name="22 (1).jpg" crc="4191101677" seo="true" ref="ot"/>
+    <file name="22 (3).jpg" crc="242041655" seo="true" ref="ot"/>
+    <file name="22.jpg" crc="467954560" seo="true" ref="ot"/>
+    <file name="22 (1)60x45.jpg" crc="485907559" seo="true" ref="ot"/>
+    <file name="22 (3)66x45.jpg" crc="3912334460" seo="true" ref="ot"/>
+    <file name="22-crop-u19836.jpg" crc="4212858397" ref="ot"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
-  <file name="ot.html" crc="4219367409" seo="true" mt="1514647110146" redirect="true"/>
+  <file name="ot.html" crc="3769014801" seo="true" mt="1514978623831" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
   <file name="tienda.html" crc="4262360648" seo="true" mt="1514665203603" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
