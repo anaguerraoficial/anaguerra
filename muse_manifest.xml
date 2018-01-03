@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515013889848">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515014665772">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -41,9 +41,9 @@
     <file name="index.css" crc="3885031794" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
     <file name="ot.css" crc="424590154" ref="ot"/>
-    <file name="tienda.css" crc="4126296100" ref="tienda"/>
+    <file name="tienda.css" crc="353762245" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="inicio.css" crc="4283126714" ref="inicio"/>
+    <file name="inicio.css" crc="64995311" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -341,7 +341,7 @@
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
   <file name="ot.html" crc="246801456" seo="true" mt="1515013611017" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
-  <file name="tienda.html" crc="4262360648" seo="true" mt="1514665203603" redirect="true"/>
+  <file name="tienda.html" crc="350831181" seo="true" mt="1515014502369" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
-  <file name="inicio.html" crc="525165735" seo="true" mt="1515013540577" redirect="true"/>
+  <file name="inicio.html" crc="3909775680" seo="true" mt="1515014636952" redirect="true"/>
 </manifest>
