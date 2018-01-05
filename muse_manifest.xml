@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515154853666">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515156203405">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -37,7 +37,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="fansclub.css" crc="184029721" ref="fansclub"/>
+    <file name="fansclub.css" crc="93945227" ref="fansclub"/>
     <file name="index.css" crc="3885031794" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
     <file name="ot.css" crc="424590154" ref="ot"/>
@@ -83,6 +83,7 @@
     <file name="lineas-recargas2.jpg" crc="331414760" seo="true" mt="1514990334000"/>
     <file name="lineas-de-recargas3.jpg" crc="4079896414" seo="true" mt="1514993647000"/>
     <file name="cabaret.mp3" crc="532903501" seo="true" mt="1514977822000"/>
+    <file name="fanart2.jpg" crc="243019042" seo="true" mt="1515155954000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía"/>
@@ -342,9 +343,12 @@
     <file name="1m.jpg" crc="3921440332" seo="true" ref="inicio"/>
     <file name="u20099-13.png" crc="189654066" ref="inicio"/>
     <file name="1m76x50.jpg" crc="404202551" seo="true" ref="inicio"/>
+    <file name="u20165.png" crc="469558459" ref="fansclub"/>
+    <file name="u20165-r.png" crc="353145026" ref="fansclub"/>
+    <file name="u20175-4.png" crc="293086928" ref="fansclub"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
-  <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
+  <file name="fansclub.html" crc="4186393729" seo="true" mt="1515156185752" redirect="true"/>
   <file name="ot.html" crc="246801456" seo="true" mt="1515013611017" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
   <file name="tienda.html" crc="350831181" seo="true" mt="1515014502369" redirect="true"/>
