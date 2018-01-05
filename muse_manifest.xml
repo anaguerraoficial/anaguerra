@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515154434985">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515154853666">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -43,7 +43,7 @@
     <file name="ot.css" crc="424590154" ref="ot"/>
     <file name="tienda.css" crc="353762245" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="inicio.css" crc="325565414" ref="inicio"/>
+    <file name="inicio.css" crc="4203065475" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -336,12 +336,12 @@
     <file name="min13.jpg" crc="190919987" seo="true" ref="ot"/>
     <file name="min14.jpg" crc="3943948459" seo="true" ref="ot:inicio"/>
     <file name="22-crop-u19830.jpg" crc="3759663848" ref="ot"/>
-    <file name="1c.jpg" crc="3856481550" seo="true" ref="inicio"/>
+    <file name="1c.jpg" crc="3806034663" seo="true" ref="inicio"/>
     <file name="u20040-13.png" crc="4014506924" ref="inicio"/>
     <file name="la.png" crc="267762596" seo="true" ref="inicio"/>
-    <file name="1m73x48.jpg" crc="3884434603" seo="true" ref="inicio"/>
     <file name="1m.jpg" crc="3921440332" seo="true" ref="inicio"/>
     <file name="u20099-13.png" crc="189654066" ref="inicio"/>
+    <file name="1m76x50.jpg" crc="404202551" seo="true" ref="inicio"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
@@ -349,5 +349,5 @@
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
   <file name="tienda.html" crc="350831181" seo="true" mt="1515014502369" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
-  <file name="inicio.html" crc="4180718223" seo="true" mt="1515154406553" redirect="true"/>
+  <file name="inicio.html" crc="431053963" seo="true" mt="1515154719562" redirect="true"/>
 </manifest>
