@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515014665772">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515151387494">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -43,7 +43,7 @@
     <file name="ot.css" crc="424590154" ref="ot"/>
     <file name="tienda.css" crc="353762245" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="inicio.css" crc="64995311" ref="inicio"/>
+    <file name="inicio.css" crc="123837055" ref="inicio"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -58,7 +58,6 @@
     <file name="wblanca.jpg" crc="3876853132" seo="true" mt="1512913999000"/>
     <file name="wnegra.jpg" crc="522418513" seo="true" mt="1512913969000"/>
     <file name="shopfiy_widget_0eb540aa-b06b-4a75-8120-f441a0061206.mulib" crc="4086536863" seo="true" mt="1514060568000"/>
-    <file name="la-bikina.mp3" crc="284821276" seo="true" mt="1511883770000"/>
     <file name="anawar-favvv.jpg" crc="256435117" seo="true" mt="1513087449000"/>
     <file name="fav.jpg" crc="494781635" seo="true" mt="1512502522000"/>
     <file name="faaaaa.jpg" crc="450886197" seo="true" mt="1513705227000"/>
@@ -83,6 +82,7 @@
     <file name="favvv-copia.jpg" crc="451065928" seo="true" mt="1514476181000"/>
     <file name="lineas-recargas2.jpg" crc="331414760" seo="true" mt="1514990334000"/>
     <file name="lineas-de-recargas3.jpg" crc="4079896414" seo="true" mt="1514993647000"/>
+    <file name="cabaret.mp3" crc="532903501" seo="true" mt="1514977822000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fansclub:ot:contacto:tienda:biografía:phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:inicio:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía"/>
@@ -336,6 +336,8 @@
     <file name="min13.jpg" crc="190919987" seo="true" ref="ot"/>
     <file name="min14.jpg" crc="3943948459" seo="true" ref="ot:inicio"/>
     <file name="22-crop-u19830.jpg" crc="3759663848" ref="ot"/>
+    <file name="1c.jpg" crc="3856481550" seo="true" ref="inicio"/>
+    <file name="u20040-13.png" crc="4014506924" ref="inicio"/>
   </folder>
   <file name="index.html" crc="316056651" seo="true" mt="1514647108888" redirect="true"/>
   <file name="fansclub.html" crc="3991879002" seo="true" mt="1514647109620" redirect="true"/>
@@ -343,5 +345,5 @@
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
   <file name="tienda.html" crc="350831181" seo="true" mt="1515014502369" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
-  <file name="inicio.html" crc="3909775680" seo="true" mt="1515014636952" redirect="true"/>
+  <file name="inicio.html" crc="4048159488" seo="true" mt="1515149282547" redirect="true"/>
 </manifest>
