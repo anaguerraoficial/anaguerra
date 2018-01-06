@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/phone/home.html</loc>
-    <lastmod>2017-12-27</lastmod>
+    <loc>http://anaguerraoficial.com/inicio.html</loc>
+    <lastmod>2018-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/inicio.html</loc>
-    <lastmod>2018-01-05</lastmod>
+    <loc>http://anaguerraoficial.com/phone/home.html</loc>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -500,13 +500,13 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/assets/altanera-blanca.jpg</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2018-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://anaguerraoficial.com/assets/altanera-negra.jpg</loc>
-    <lastmod>2017-12-10</lastmod>
+    <lastmod>2018-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -955,7 +955,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/sudadera.jpg</loc>
+    <loc>http://anaguerraoficial.com/images/sudadera%20negra%20pre.jpg</loc>
+    <lastmod>2018-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/sudadera%20presiosa.jpg</loc>
     <lastmod>2018-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -991,13 +997,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/17%20(2).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/17%20(1).jpg</loc>
     <lastmod>2018-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/17%20(1).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/17%20(2).jpg</loc>
     <lastmod>2018-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

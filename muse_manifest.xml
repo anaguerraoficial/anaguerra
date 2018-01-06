@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515271631914">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515275750248">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -41,7 +41,7 @@
     <file name="index.css" crc="277945516" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
     <file name="ot.css" crc="424590154" ref="ot"/>
-    <file name="tienda.css" crc="4105138208" ref="tienda"/>
+    <file name="tienda.css" crc="217175319" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="inicio.css" crc="4203065475" ref="inicio"/>
   </folder>
@@ -51,8 +51,8 @@
     <file name="1.jpg" crc="260782514" seo="true" mt="1513710368000"/>
     <file name="4.jpg" crc="444061723" seo="true" mt="1513710455000"/>
     <file name="2.jpg" crc="4134577471" seo="true" mt="1513710403000"/>
-    <file name="altanera-blanca.jpg" crc="4237287868" seo="true" mt="1513960089000"/>
-    <file name="altanera-negra.jpg" crc="4158995927" seo="true" mt="1512930972000"/>
+    <file name="altanera-blanca.jpg" crc="279048587" seo="true" mt="1515275529000"/>
+    <file name="altanera-negra.jpg" crc="435554066" seo="true" mt="1515275507000"/>
     <file name="ay-ana.jpg" crc="491841902" seo="true" mt="1512916567000"/>
     <file name="ay-ana-negra.jpg" crc="4099896480" seo="true" mt="1512917345000"/>
     <file name="wblanca.jpg" crc="3876853132" seo="true" mt="1512913999000"/>
@@ -307,10 +307,10 @@
     <file name="j3-crop-u18836.jpg" crc="3937531875" ref="biografía"/>
     <file name="j4-crop-u18862.jpg" crc="201543274" ref="biografía"/>
     <file name="u9992-10.png" crc="3921923574" ref="tienda"/>
-    <file name="u19327-4.png" crc="277467509" ref="tienda"/>
+    <file name="u19327-4.png" crc="528751956" ref="tienda"/>
     <file name="u19222-4.png" crc="412397312" ref="tienda"/>
-    <file name="altanera blanca-crop-u19203.jpg" crc="4141170887" ref="tienda"/>
-    <file name="altanera negra-crop-u19207.jpg" crc="3781888125" ref="tienda"/>
+    <file name="altanera blanca-crop-u19203.jpg" crc="3817578354" ref="tienda"/>
+    <file name="altanera negra-crop-u19207.jpg" crc="357583042" ref="tienda"/>
     <file name="ay ana-crop-u19194.jpg" crc="479255073" ref="tienda"/>
     <file name="ay ana negra-crop-u19198.jpg" crc="3934906563" ref="tienda"/>
     <file name="wblanca-crop-u19185.jpg" crc="11716556" ref="tienda"/>
@@ -350,14 +350,15 @@
     <file name="u20250-4.png" crc="13310343" ref="tienda"/>
     <file name="u20188-4.png" crc="466994773" ref="tienda"/>
     <file name="15a.jpg" crc="376331300" seo="true" ref="tienda"/>
-    <file name="sudadera.jpg" crc="361863377" seo="true" ref="tienda"/>
     <file name="u20256-5.png" crc="333551075" ref="tienda"/>
+    <file name="sudadera negra pre.jpg" crc="370690098" seo="true" ref="tienda"/>
+    <file name="sudadera presiosa.jpg" crc="254208457" seo="true" ref="tienda"/>
   </folder>
   <file name="index.html" crc="509797091" seo="true" mt="1515271577008" redirect="true"/>
   <file name="fansclub.html" crc="4186393729" seo="true" mt="1515156185752" redirect="true"/>
   <file name="ot.html" crc="246801456" seo="true" mt="1515013611017" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
-  <file name="tienda.html" crc="385105323" seo="true" mt="1515271421729" redirect="true"/>
+  <file name="tienda.html" crc="4223342801" seo="true" mt="1515275709426" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
   <file name="inicio.html" crc="431053963" seo="true" mt="1515154719562" redirect="true"/>
 </manifest>
