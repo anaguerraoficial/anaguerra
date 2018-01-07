@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515276478633">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515336264011">
   <folder name="tablet">
     <folder name="css">
       <file name="ot.css" crc="3992812073" ref="tablet>ot"/>
@@ -41,7 +41,7 @@
     <file name="index.css" crc="277945516" ref="index"/>
     <file name="contacto.css" crc="3912438980" ref="contacto"/>
     <file name="ot.css" crc="424590154" ref="ot"/>
-    <file name="tienda.css" crc="217175319" ref="tienda"/>
+    <file name="tienda.css" crc="69826445" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="inicio.css" crc="4203065475" ref="inicio"/>
   </folder>
@@ -351,14 +351,16 @@
     <file name="u20188-4.png" crc="466994773" ref="tienda"/>
     <file name="15a.jpg" crc="376331300" seo="true" ref="tienda"/>
     <file name="u20256-5.png" crc="333551075" ref="tienda"/>
-    <file name="sudadera negra pre.jpg" crc="370690098" seo="true" ref="tienda"/>
     <file name="sudadera presiosa.jpg" crc="254208457" seo="true" ref="tienda"/>
+    <file name="altanera con-crop-u20376.jpg" crc="215461204" ref="tienda"/>
+    <file name="warrier sin negra-crop-u20380.jpg" crc="4150339476" ref="tienda"/>
+    <file name="sudadera blanca.jpg" crc="4195481905" seo="true" ref="tienda"/>
   </folder>
   <file name="index.html" crc="509797091" seo="true" mt="1515271577008" redirect="true"/>
   <file name="fansclub.html" crc="4186393729" seo="true" mt="1515156185752" redirect="true"/>
   <file name="ot.html" crc="246801456" seo="true" mt="1515013611017" redirect="true"/>
   <file name="contacto.html" crc="3908056766" seo="true" mt="1514660569368" redirect="true"/>
-  <file name="tienda.html" crc="4223342801" seo="true" mt="1515275709426" redirect="true"/>
+  <file name="tienda.html" crc="3942797562" seo="true" mt="1515336164607" redirect="true"/>
   <file name="biografía.html" crc="501081872" seo="true" mt="1514659652262" redirect="true"/>
   <file name="inicio.html" crc="431053963" seo="true" mt="1515154719562" redirect="true"/>
 </manifest>
