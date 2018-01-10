@@ -307,19 +307,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/1c.jpg</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://anaguerraoficial.com/images/1m76x50.jpg</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/lineas%20de%20recargas3.jpg</loc>
     <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -505,6 +493,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anaguerraoficial.com/images/13%20(5).jpg</loc>
+    <lastmod>2018-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anaguerraoficial.com/assets/ay-ana.jpg</loc>
     <lastmod>2017-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -513,12 +507,6 @@
   <url>
     <loc>http://anaguerraoficial.com/assets/ay-ana-negra.jpg</loc>
     <lastmod>2017-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
-    <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -937,12 +925,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/paggg.jpg</loc>
-    <lastmod>2018-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://anaguerraoficial.com/images/bases%20copia.jpg</loc>
     <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -962,6 +944,12 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/images/concursote.jpg</loc>
+    <lastmod>2018-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/pa.jpg</loc>
     <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1009,13 +997,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/13%20(5).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(1).jpg</loc>
     <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anaguerraoficial.com/images/14%20(1).jpg</loc>
+    <loc>http://anaguerraoficial.com/images/14%20(2).jpg</loc>
     <lastmod>2018-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
