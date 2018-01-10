@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515543266898">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515547275935">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="4035374477" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="189587496" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="3891355688" ref="index"/>
+    <file name="index.css" crc="213923825" ref="index"/>
     <file name="fansclub.css" crc="317425620" ref="fansclub"/>
     <file name="salvar-ana.css" crc="145947354" ref="salvar-ana"/>
   </folder>
@@ -319,9 +319,9 @@
     <file name="concursote.jpg" crc="4106485665" seo="true" ref="salvar-ana"/>
     <file name="pa.jpg" crc="315466275" seo="true" ref="salvar-ana"/>
     <file name="u20712-5-a.png" crc="3794443170" ref="salvar-ana"/>
-    <file name="saaave-crop-u19960.jpg" crc="120078389" ref="index"/>
-    <file name="saaave-crop-u19895.jpg" crc="4247604750" ref="index"/>
+    <file name="saaave-crop-u19960.jpg" crc="462548741" ref="index"/>
     <file name="u14500-14.png" crc="4183743695" ref="index"/>
+    <file name="2-crop-u19895.jpg" crc="3782106126" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -359,7 +359,7 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3882917935" seo="true" mt="1515543230195" redirect="true"/>
+  <file name="index.html" crc="310333330" seo="true" mt="1515547251615" redirect="true"/>
   <file name="fansclub.html" crc="344106847" seo="true" mt="1515337815700" redirect="true"/>
   <file name="ot.html" crc="389348288" seo="true" mt="1515337815719" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
