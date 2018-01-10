@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515547275935">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515548644787">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="ot.css" crc="4035374477" ref="ot"/>
+    <file name="ot.css" crc="196330951" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="189587496" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
@@ -49,6 +49,9 @@
     <file name="fanart2.jpg" crc="243019042" seo="true" mt="1515155954000"/>
     <file name="altanera-con.jpg" crc="64964421" seo="true" mt="1515330388000"/>
     <file name="warrier-sin-negra.jpg" crc="18956061" seo="true" mt="1515333896000"/>
+    <file name="42.jpg" crc="26292426" seo="true" mt="1515547201000"/>
+    <file name="11.jpg" crc="130153445" seo="true" mt="1515546899000"/>
+    <file name="22.jpg" crc="3907038704" seo="true" mt="1515546919000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
@@ -94,7 +97,7 @@
     <file name="u14039-r.png" crc="513904070" ref="index"/>
     <file name="ppl.png" crc="3798304330" seo="true" ref="index"/>
     <file name="u2646-4.png" crc="168650843" ref="index"/>
-    <file name="min14.jpg" crc="3943948459" seo="true" ref="ot"/>
+    <file name="min14.jpg" crc="248343303" seo="true" ref="ot"/>
     <file name="1m76x50.jpg" crc="404202551" seo="true" ref="index"/>
     <file name="1m.jpg" crc="3921440332" seo="true" ref="index"/>
     <file name="u20099-13.png" crc="189654066" ref="index"/>
@@ -164,11 +167,11 @@
     <file name="u3410-4.png" crc="26333549" ref="ot"/>
     <file name="u3407-4.png" crc="450088290" ref="ot"/>
     <file name="u3350-4.png" crc="4096762833" ref="ot"/>
-    <file name="min4.jpg" crc="351459807" seo="true" ref="ot"/>
-    <file name="min2.jpg" crc="231422562" seo="true" ref="ot"/>
-    <file name="min3.jpg" crc="151032604" seo="true" ref="ot"/>
-    <file name="miniat.jpg" crc="152922126" seo="true" ref="ot"/>
-    <file name="min13.jpg" crc="190919987" seo="true" ref="ot"/>
+    <file name="min4.jpg" crc="3831017586" seo="true" ref="ot"/>
+    <file name="min2.jpg" crc="3989547750" seo="true" ref="ot"/>
+    <file name="min3.jpg" crc="49793604" seo="true" ref="ot"/>
+    <file name="miniat.jpg" crc="4160490931" seo="true" ref="ot"/>
+    <file name="min13.jpg" crc="4203480501" seo="true" ref="ot"/>
     <file name="u7058-4.png" crc="450088290" ref="ot"/>
     <file name="u7059-4.png" crc="3780099559" ref="ot"/>
     <file name="0a (1)-crop-u12617.jpg" crc="4109062010" ref="ot"/>
@@ -322,6 +325,16 @@
     <file name="saaave-crop-u19960.jpg" crc="462548741" ref="index"/>
     <file name="u14500-14.png" crc="4183743695" ref="index"/>
     <file name="2-crop-u19895.jpg" crc="3782106126" ref="index"/>
+    <file name="u21024-4.png" crc="3973953155" ref="ot"/>
+    <file name="4.jpg" crc="4252944940" seo="true" ref="ot"/>
+    <file name="2104x147.jpg" crc="48747003" seo="true" ref="ot"/>
+    <file name="11.jpg" crc="3895183290" seo="true" ref="ot"/>
+    <file name="23 (a)-crop-u21107.jpg" crc="3971467936" ref="ot"/>
+    <file name="23 (b=-crop-u21127.jpg" crc="4059990239" ref="ot"/>
+    <file name="23.jpg" crc="2146346" seo="true" ref="ot"/>
+    <file name="23 (a)-crop-u21113.jpg" crc="325060247" ref="ot"/>
+    <file name="23 (b=-crop-u21133.jpg" crc="473837494" ref="ot"/>
+    <file name="2368x45.jpg" crc="74365514" seo="true" ref="ot"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -361,7 +374,7 @@
   </folder>
   <file name="index.html" crc="310333330" seo="true" mt="1515547251615" redirect="true"/>
   <file name="fansclub.html" crc="344106847" seo="true" mt="1515337815700" redirect="true"/>
-  <file name="ot.html" crc="389348288" seo="true" mt="1515337815719" redirect="true"/>
+  <file name="ot.html" crc="3859464019" seo="true" mt="1515548608981" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="4130185993" seo="true" mt="1515338968331" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
