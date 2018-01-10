@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515548644787">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515581878642">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="196330951" ref="ot"/>
@@ -319,7 +319,7 @@
     <file name="bases copia.jpg" crc="4172614820" seo="true" ref="salvar-ana"/>
     <file name="pag.png" crc="3901529630" seo="true" ref="salvar-ana"/>
     <file name="rod.png" crc="488061237" seo="true" ref="salvar-ana"/>
-    <file name="concursote.jpg" crc="4106485665" seo="true" ref="salvar-ana"/>
+    <file name="concursote.jpg" crc="519130725" seo="true" ref="salvar-ana"/>
     <file name="pa.jpg" crc="315466275" seo="true" ref="salvar-ana"/>
     <file name="u20712-5-a.png" crc="3794443170" ref="salvar-ana"/>
     <file name="saaave-crop-u19960.jpg" crc="462548741" ref="index"/>
@@ -378,5 +378,5 @@
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="4130185993" seo="true" mt="1515338968331" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
-  <file name="salvar-ana.html" crc="3975003747" seo="true" mt="1515542933243" redirect="true"/>
+  <file name="salvar-ana.html" crc="3993820205" seo="true" mt="1515581747562" redirect="true"/>
 </manifest>
