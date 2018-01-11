@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515713102732">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515713800607">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="249153466" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="4070137735" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="339763598" ref="index"/>
+    <file name="index.css" crc="3965874118" ref="index"/>
     <file name="fansclub.css" crc="267768108" ref="fansclub"/>
     <file name="salvar-ana.css" crc="202586152" ref="salvar-ana"/>
   </folder>
@@ -45,7 +45,6 @@
     <file name="favvv-copia.jpg" crc="451065928" seo="true" mt="1514476181000"/>
     <file name="lineas-recargas2.jpg" crc="331414760" seo="true" mt="1514990334000"/>
     <file name="lineas-de-recargas3.jpg" crc="4079896414" seo="true" mt="1514993647000"/>
-    <file name="cabaret.mp3" crc="532903501" seo="true" mt="1514977822000"/>
     <file name="fanart2.jpg" crc="243019042" seo="true" mt="1515155954000"/>
     <file name="altanera-con.jpg" crc="64964421" seo="true" mt="1515330388000"/>
     <file name="warrier-sin-negra.jpg" crc="18956061" seo="true" mt="1515333896000"/>
@@ -54,6 +53,7 @@
     <file name="22.jpg" crc="3907038704" seo="true" mt="1515546919000"/>
     <file name="fa7.jpg" crc="226456857" seo="true" mt="1515712363000"/>
     <file name="lineas-de-recargas-def.jpg" crc="3954594699" seo="true" mt="1515679735000"/>
+    <file name="la-negra-tiene-tumbao.mp3" crc="381699419" seo="true" mt="1515713729000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
@@ -375,7 +375,7 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4156488803" seo="true" mt="1515713027712" redirect="true"/>
+  <file name="index.html" crc="4040253084" seo="true" mt="1515713781122" redirect="true"/>
   <file name="fansclub.html" crc="4231139156" seo="true" mt="1515712675370" redirect="true"/>
   <file name="ot.html" crc="319155228" seo="true" mt="1515712826851" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
