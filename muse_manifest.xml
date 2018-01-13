@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515846294284">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515847756569">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="249153466" ref="ot"/>
@@ -6,7 +6,7 @@
     <file name="tienda.css" crc="4070137735" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="index.css" crc="3965874118" ref="index"/>
-    <file name="fansclub.css" crc="281123873" ref="fansclub"/>
+    <file name="fansclub.css" crc="4107686789" ref="fansclub"/>
     <file name="salvar-ana.css" crc="202586152" ref="salvar-ana"/>
   </folder>
   <folder name="assets">
@@ -338,7 +338,7 @@
     <file name="u21328-5.png" crc="508828589" ref="fansclub"/>
     <file name="lineas de recargas def.jpg" crc="283475073" seo="true" ref="ot"/>
     <file name="23720x480.jpg" crc="308398337" seo="true" ref="ot"/>
-    <file name="youtube.jpg" crc="4052250135" seo="true" ref="fansclub"/>
+    <file name="youtube.jpg" crc="185961768" seo="true" ref="fansclub"/>
     <file name="face.jpg" crc="486524348" seo="true" ref="fansclub"/>
   </folder>
   <folder name="tablet">
@@ -378,7 +378,7 @@
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
   <file name="index.html" crc="4040253084" seo="true" mt="1515713781122" redirect="true"/>
-  <file name="fansclub.html" crc="343138049" seo="true" mt="1515846263483" redirect="true"/>
+  <file name="fansclub.html" crc="4078494515" seo="true" mt="1515847729459" redirect="true"/>
   <file name="ot.html" crc="319155228" seo="true" mt="1515712826851" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="4227752982" seo="true" mt="1515589246432" redirect="true"/>
