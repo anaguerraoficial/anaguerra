@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516121901676">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516122317246">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="3881703378" ref="ot"/>
@@ -319,7 +319,6 @@
     <file name="pag.png" crc="74063435" seo="true" ref="salvar-ana"/>
     <file name="rod.png" crc="488061237" seo="true" ref="salvar-ana"/>
     <file name="u20712-5-a.png" crc="3794443170" ref="salvar-ana"/>
-    <file name="saaave-crop-u19960.jpg" crc="462548741" ref="index"/>
     <file name="u14500-14.png" crc="4183743695" ref="index"/>
     <file name="23 (a)-crop-u21107.jpg" crc="3971467936" ref="ot"/>
     <file name="23 (b=-crop-u21127.jpg" crc="4059990239" ref="ot"/>
@@ -337,7 +336,7 @@
     <file name="youtube.jpg" crc="185961768" seo="true" ref="fansclub"/>
     <file name="face.jpg" crc="3814473199" seo="true" ref="fansclub:ot"/>
     <file name="u.jpg" crc="3882343697" seo="true" ref="index"/>
-    <file name="cartel-crop-u19895.jpg" crc="232090702" ref="index"/>
+    <file name="cartel-crop-u19895.jpg" crc="160234680" ref="index"/>
     <file name="lineas semmm.jpg" crc="3765305768" seo="true" ref="ot"/>
     <file name="face2.jpg" crc="4231896098" seo="true" ref="ot"/>
     <file name="dave.jpg" crc="279560100" seo="true" ref="ot"/>
@@ -349,6 +348,7 @@
     <file name="3268x45.jpg" crc="4181314078" seo="true" ref="ot"/>
     <file name="3560x51.jpg" crc="3767482697" seo="true" ref="ot"/>
     <file name="pag.jpg" crc="4115050314" seo="true" ref="salvar-ana"/>
+    <file name="cartel-crop-u19960.jpg" crc="3926059188" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -386,7 +386,7 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="420656458" seo="true" mt="1516120852880" redirect="true"/>
+  <file name="index.html" crc="4276259730" seo="true" mt="1516122259230" redirect="true"/>
   <file name="fansclub.html" crc="4078494515" seo="true" mt="1515847729459" redirect="true"/>
   <file name="ot.html" crc="3880148620" seo="true" mt="1516119968901" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
