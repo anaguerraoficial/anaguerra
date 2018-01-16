@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1515847756569">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516120126728">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="ot.css" crc="249153466" ref="ot"/>
+    <file name="ot.css" crc="3881703378" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="4070137735" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="3965874118" ref="index"/>
+    <file name="index.css" crc="3767423611" ref="index"/>
     <file name="fansclub.css" crc="4107686789" ref="fansclub"/>
-    <file name="salvar-ana.css" crc="202586152" ref="salvar-ana"/>
+    <file name="salvar-ana.css" crc="3984095515" ref="salvar-ana"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -54,6 +54,11 @@
     <file name="fa7.jpg" crc="226456857" seo="true" mt="1515712363000"/>
     <file name="lineas-de-recargas-def.jpg" crc="3954594699" seo="true" mt="1515679735000"/>
     <file name="la-negra-tiene-tumbao.mp3" crc="381699419" seo="true" mt="1515713729000"/>
+    <file name="cartel.jpg" crc="66207120" seo="true" mt="1516112281000"/>
+    <file name="lineas-semmm2.jpg" crc="260878737" seo="true" mt="1516107872000"/>
+    <file name="face.jpg" crc="284961333" seo="true" mt="1516112879000"/>
+    <file name="face2.jpg" crc="417414762" seo="true" mt="1516119692000"/>
+    <file name="dave.jpg" crc="101199170" seo="true" mt="1516119886000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
@@ -167,7 +172,6 @@
     <file name="u3310-4.png" crc="450088290" ref="ot"/>
     <file name="u3410-4.png" crc="26333549" ref="ot"/>
     <file name="u3407-4.png" crc="450088290" ref="ot"/>
-    <file name="u3350-4.png" crc="4096762833" ref="ot"/>
     <file name="u7058-4.png" crc="450088290" ref="ot"/>
     <file name="u7059-4.png" crc="3780099559" ref="ot"/>
     <file name="0a (1)-crop-u12617.jpg" crc="4109062010" ref="ot"/>
@@ -315,15 +319,9 @@
     <file name="pag.png" crc="4214855812" seo="true" ref="salvar-ana"/>
     <file name="rod.png" crc="488061237" seo="true" ref="salvar-ana"/>
     <file name="concursote.jpg" crc="519130725" seo="true" ref="salvar-ana"/>
-    <file name="pa.jpg" crc="315466275" seo="true" ref="salvar-ana"/>
     <file name="u20712-5-a.png" crc="3794443170" ref="salvar-ana"/>
     <file name="saaave-crop-u19960.jpg" crc="462548741" ref="index"/>
     <file name="u14500-14.png" crc="4183743695" ref="index"/>
-    <file name="2-crop-u19895.jpg" crc="3782106126" ref="index"/>
-    <file name="u21024-4.png" crc="3973953155" ref="ot"/>
-    <file name="4.jpg" crc="4252944940" seo="true" ref="ot"/>
-    <file name="2104x147.jpg" crc="48747003" seo="true" ref="ot"/>
-    <file name="11.jpg" crc="3895183290" seo="true" ref="ot"/>
     <file name="23 (a)-crop-u21107.jpg" crc="3971467936" ref="ot"/>
     <file name="23 (b=-crop-u21127.jpg" crc="4059990239" ref="ot"/>
     <file name="23.jpg" crc="4139939649" seo="true" ref="index"/>
@@ -336,10 +334,22 @@
     <file name="u21316.png" crc="3568908" ref="fansclub"/>
     <file name="u21316-r.png" crc="136411771" ref="fansclub"/>
     <file name="u21328-5.png" crc="508828589" ref="fansclub"/>
-    <file name="lineas de recargas def.jpg" crc="283475073" seo="true" ref="ot"/>
     <file name="23720x480.jpg" crc="308398337" seo="true" ref="ot"/>
     <file name="youtube.jpg" crc="185961768" seo="true" ref="fansclub"/>
-    <file name="face.jpg" crc="486524348" seo="true" ref="fansclub"/>
+    <file name="face.jpg" crc="3814473199" seo="true" ref="fansclub:ot"/>
+    <file name="u.jpg" crc="3882343697" seo="true" ref="index"/>
+    <file name="cartel-crop-u19895.jpg" crc="4219090637" ref="index"/>
+    <file name="lineas semmm.jpg" crc="3765305768" seo="true" ref="ot"/>
+    <file name="face2.jpg" crc="4231896098" seo="true" ref="ot"/>
+    <file name="dave.jpg" crc="279560100" seo="true" ref="ot"/>
+    <file name="cartel.jpg" crc="292958182" seo="true" ref="ot"/>
+    <file name="24b-crop-u21575.jpg" crc="4086621301" ref="ot"/>
+    <file name="32.jpg" crc="4244100152" seo="true" ref="ot"/>
+    <file name="35.jpg" crc="3874710419" seo="true" ref="ot"/>
+    <file name="24b-crop-u21581.jpg" crc="3851938305" ref="ot"/>
+    <file name="3268x45.jpg" crc="4181314078" seo="true" ref="ot"/>
+    <file name="3560x51.jpg" crc="3767482697" seo="true" ref="ot"/>
+    <file name="salvaranaguerra.jpg" crc="466208027" seo="true" ref="salvar-ana"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -377,11 +387,11 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4040253084" seo="true" mt="1515713781122" redirect="true"/>
+  <file name="index.html" crc="4171181442" seo="true" mt="1516114902099" redirect="true"/>
   <file name="fansclub.html" crc="4078494515" seo="true" mt="1515847729459" redirect="true"/>
-  <file name="ot.html" crc="319155228" seo="true" mt="1515712826851" redirect="true"/>
+  <file name="ot.html" crc="3880148620" seo="true" mt="1516119968901" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="4227752982" seo="true" mt="1515589246432" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
-  <file name="salvar-ana.html" crc="359359623" seo="true" mt="1515711817103" redirect="true"/>
+  <file name="salvar-ana.html" crc="145121825" seo="true" mt="1516120045240" redirect="true"/>
 </manifest>
