@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://anaguerraoficial.com/index.html</loc>
-    <lastmod>2018-01-19</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/fansclub.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -291,6 +291,12 @@
   <url>
     <loc>http://anaguerraoficial.com/assets/por-debajo-de-la-mesa.mp3</loc>
     <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/assets/bikina.jpg</loc>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1052,6 +1058,12 @@
   </url>
   <url>
     <loc>http://anaguerraoficial.com/images/pag.jpg</loc>
+    <lastmod>2018-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anaguerraoficial.com/images/fam9.png</loc>
     <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
