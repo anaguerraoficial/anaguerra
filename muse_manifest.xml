@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516122317246">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516631931530">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="3881703378" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
-    <file name="tienda.css" crc="4070137735" ref="tienda"/>
+    <file name="tienda.css" crc="443728085" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="160427742" ref="index"/>
+    <file name="index.css" crc="4148773763" ref="index"/>
     <file name="fansclub.css" crc="4107686789" ref="fansclub"/>
     <file name="salvar-ana.css" crc="4187376494" ref="salvar-ana"/>
   </folder>
@@ -53,12 +53,12 @@
     <file name="22.jpg" crc="3907038704" seo="true" mt="1515546919000"/>
     <file name="fa7.jpg" crc="226456857" seo="true" mt="1515712363000"/>
     <file name="lineas-de-recargas-def.jpg" crc="3954594699" seo="true" mt="1515679735000"/>
-    <file name="la-negra-tiene-tumbao.mp3" crc="381699419" seo="true" mt="1515713729000"/>
     <file name="cartel.jpg" crc="66207120" seo="true" mt="1516112281000"/>
     <file name="lineas-semmm2.jpg" crc="260878737" seo="true" mt="1516107872000"/>
     <file name="face.jpg" crc="284961333" seo="true" mt="1516112879000"/>
     <file name="face2.jpg" crc="417414762" seo="true" mt="1516119692000"/>
     <file name="dave.jpg" crc="101199170" seo="true" mt="1516119886000"/>
+    <file name="por-debajo-de-la-mesa.mp3" crc="448188358" seo="true" mt="1516377481000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
@@ -296,7 +296,7 @@
     <file name="def.jpg" crc="4031540834" seo="true" ref="tienda"/>
     <file name="15 - g.png" crc="4035211087" seo="true" ref="tienda"/>
     <file name="u9983-4.png" crc="4255054859" ref="tienda"/>
-    <file name="u9992-10.png" crc="3921923574" ref="tienda"/>
+    <file name="u9992-10.png" crc="525616044" ref="tienda"/>
     <file name="u9998-4.png" crc="4278226491" ref="tienda"/>
     <file name="u14904-4.png" crc="4289836335" ref="biografía"/>
     <file name="u14884-4.png" crc="4257774647" ref="biografía"/>
@@ -386,11 +386,11 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4276259730" seo="true" mt="1516122259230" redirect="true"/>
+  <file name="index.html" crc="4169999191" seo="true" mt="1516377782935" redirect="true"/>
   <file name="fansclub.html" crc="4078494515" seo="true" mt="1515847729459" redirect="true"/>
   <file name="ot.html" crc="3880148620" seo="true" mt="1516119968901" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
-  <file name="tienda.html" crc="4227752982" seo="true" mt="1515589246432" redirect="true"/>
+  <file name="tienda.html" crc="443825533" seo="true" mt="1516377332696" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
   <file name="salvar-ana.html" crc="415446901" seo="true" mt="1516121880791" redirect="true"/>
 </manifest>
