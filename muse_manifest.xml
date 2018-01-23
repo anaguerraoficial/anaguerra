@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516713149119">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516713449760">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="4167191121" ref="ot"/>
@@ -7,7 +7,7 @@
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="index.css" crc="3852875575" ref="index"/>
     <file name="fansclub.css" crc="4198692421" ref="fansclub"/>
-    <file name="salvar-ana.css" crc="4197123182" ref="salvar-ana"/>
+    <file name="vota-a-ana.css" crc="4197123182" ref="vota-a-ana"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -64,28 +64,28 @@
     <file name="lineas-def.jpg" crc="328631740" seo="true" mt="1516708535000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="museutils.js" crc="163421577" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="require.js" crc="244322403" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
     <file name="webpro.js" crc="3848665353" ref="index:ot:contacto:tienda:biografía"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index:ot:tienda:biografía"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index:ot:tienda:biografía"/>
     <file name="touchswipe.js" crc="404375771" ref="index:ot:tienda:biografía"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
     <file name="form_check.php" crc="158155501" ref="contacto"/>
     <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
     <file name="form_process.php" crc="4078697226" ref="contacto"/>
     <file name="form-u3812.php" crc="4189412777" ref="contacto"/>
   </folder>
   <folder name="images">
-    <file name="sombra.png" crc="147857237" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
+    <file name="sombra.png" crc="147857237" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
     <file name="u2849-4.png" crc="4257774647" ref="index"/>
-    <file name="ana guerra firma dorado copia copia.png" crc="467613662" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
+    <file name="ana guerra firma dorado copia copia.png" crc="467613662" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
     <file name="u2853-4.png" crc="4289836335" ref="index"/>
     <file name="contactos.jpg" crc="4082221053" seo="true" ref="index:contacto"/>
     <file name="blank.gif" crc="4208392903" ref="index:ot:biografía"/>
@@ -121,10 +121,10 @@
     <file name="u19721_states-r.png" crc="4016197356" ref="index"/>
     <file name="u19733_states.png" crc="386380414" ref="index"/>
     <file name="u19733_states-r.png" crc="3873212329" ref="index"/>
-    <file name="up2.png" crc="3993396711" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="twww.png" crc="24062246" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="ins.png" crc="3802989776" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
-    <file name="asaas.png" crc="366401130" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:salvar-ana"/>
+    <file name="up2.png" crc="3993396711" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="twww.png" crc="24062246" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="ins.png" crc="3802989776" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
+    <file name="asaas.png" crc="366401130" seo="true" ref="index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
     <file name="u2979-4.png" crc="4289836335" ref="fansclub"/>
     <file name="u14050-4.png" crc="4257774647" ref="fansclub"/>
     <file name="u2967-5-a.png" crc="3952226995" ref="fansclub"/>
@@ -312,12 +312,12 @@
     <file name="j3-crop-u18836.jpg" crc="3937531875" ref="biografía"/>
     <file name="j4-crop-u18862.jpg" crc="201543274" ref="biografía"/>
     <file name="save.png" crc="3978691233" seo="true" ref="index"/>
-    <file name="u20659-4.png" crc="4289836335" ref="salvar-ana"/>
-    <file name="u20611-4.png" crc="4257774647" ref="salvar-ana"/>
-    <file name="u20717-4.png" crc="4238097736" ref="salvar-ana"/>
-    <file name="pag.png" crc="74063435" seo="true" ref="salvar-ana"/>
-    <file name="rod.png" crc="488061237" seo="true" ref="salvar-ana"/>
-    <file name="u20712-5-a.png" crc="3875805099" ref="salvar-ana"/>
+    <file name="u20659-4.png" crc="4289836335" ref="vota-a-ana"/>
+    <file name="u20611-4.png" crc="4257774647" ref="vota-a-ana"/>
+    <file name="u20717-4.png" crc="4238097736" ref="vota-a-ana"/>
+    <file name="pag.png" crc="74063435" seo="true" ref="vota-a-ana"/>
+    <file name="rod.png" crc="488061237" seo="true" ref="vota-a-ana"/>
+    <file name="u20712-5-a.png" crc="3875805099" ref="vota-a-ana"/>
     <file name="23 (a)-crop-u21107.jpg" crc="3971467936" ref="ot"/>
     <file name="23 (b=-crop-u21127.jpg" crc="4059990239" ref="ot"/>
     <file name="23.jpg" crc="4139939649" seo="true" ref="index"/>
@@ -347,7 +347,7 @@
     <file name="u21815-4.png" crc="4135851761" ref="fansclub"/>
     <file name="38b.jpg" crc="4076305213" seo="true" ref="index:ot"/>
     <file name="38c-crop-u19960.jpg" crc="24471600" ref="index"/>
-    <file name="38c.jpg" crc="364834586" seo="true" ref="index:ot:salvar-ana"/>
+    <file name="38c.jpg" crc="364834586" seo="true" ref="index:ot:vota-a-ana"/>
     <file name="u14500-11.png" crc="524481947" ref="index"/>
     <file name="recarga2.jpg" crc="3938797161" seo="true" ref="ot"/>
     <file name="lineas def455x322.jpg" crc="3761230825" seo="true" ref="ot"/>
@@ -357,7 +357,7 @@
     <file name="38c68x45.jpg" crc="4037589200" seo="true" ref="ot"/>
     <file name="38a-crop-u22093.jpg" crc="4129187372" ref="ot"/>
     <file name="37c68x45.jpg" crc="3868205935" seo="true" ref="ot"/>
-    <file name="lineas def.jpg" crc="425054500" seo="true" ref="salvar-ana"/>
+    <file name="lineas def.jpg" crc="425054500" seo="true" ref="vota-a-ana"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -395,11 +395,11 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4132733748" seo="true" mt="1516711754900" redirect="true"/>
+  <file name="index.html" crc="104206969" seo="true" mt="1516713436742" redirect="true"/>
   <file name="fansclub.html" crc="188204251" seo="true" mt="1516634848065" redirect="true"/>
   <file name="ot.html" crc="4027932039" seo="true" mt="1516712431181" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="443825533" seo="true" mt="1516377332696" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
-  <file name="salvar-ana.html" crc="4238952613" seo="true" mt="1516713107303" redirect="true"/>
+  <file name="vota-a-ana.html" crc="388651533" seo="true" mt="1516713436747" redirect="true"/>
 </manifest>
