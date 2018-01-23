@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516712556826">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516713149119">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="4167191121" ref="ot"/>
@@ -7,7 +7,7 @@
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
     <file name="index.css" crc="3852875575" ref="index"/>
     <file name="fansclub.css" crc="4198692421" ref="fansclub"/>
-    <file name="salvar-ana.css" crc="454466038" ref="salvar-ana"/>
+    <file name="salvar-ana.css" crc="4197123182" ref="salvar-ana"/>
   </folder>
   <folder name="assets">
     <file name="aa.mp4" crc="4033977895" seo="true" mt="1505589002000"/>
@@ -401,5 +401,5 @@
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="443825533" seo="true" mt="1516377332696" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
-  <file name="salvar-ana.html" crc="4261178363" seo="true" mt="1516711260186" redirect="true"/>
+  <file name="salvar-ana.html" crc="4238952613" seo="true" mt="1516713107303" redirect="true"/>
 </manifest>
