@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1516738390958">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1517170767691">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="4224520832" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="443728085" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="3803292220" ref="index"/>
+    <file name="index.css" crc="372422192" ref="index"/>
     <file name="fansclub.css" crc="4289016296" ref="fansclub"/>
     <file name="vota-a-ana.css" crc="4197123182" ref="vota-a-ana"/>
   </folder>
@@ -59,9 +59,10 @@
     <file name="face2.jpg" crc="417414762" seo="true" mt="1516119692000"/>
     <file name="dave.jpg" crc="101199170" seo="true" mt="1516119886000"/>
     <file name="bikina.jpg" crc="50665654" seo="true" mt="1516634670000"/>
-    <file name="havana.mp3" crc="4105767061" seo="true" mt="1516709381000"/>
     <file name="recarga2.jpg" crc="353810468" seo="true" mt="1516457539000"/>
     <file name="lineas-def.jpg" crc="328631740" seo="true" mt="1516708535000"/>
+    <file name="el-remedio_various-artists.mp3" crc="3760985583" seo="true" mt="1517155381000"/>
+    <file name="lo-malo_various-artists.mp3" crc="47397543" seo="true" mt="1517155697000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
@@ -363,6 +364,7 @@
     <file name="38g.jpg" crc="242522056" seo="true" ref="ot"/>
     <file name="38f60x45.jpg" crc="4167323183" seo="true" ref="ot"/>
     <file name="38g60x45.jpg" crc="4018521607" seo="true" ref="ot"/>
+    <file name="u22318-4.png" crc="4159254641" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -400,7 +402,7 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="190749718" seo="true" mt="1516738362444" redirect="true"/>
+  <file name="index.html" crc="4139060085" seo="true" mt="1517170739476" redirect="true"/>
   <file name="fansclub.html" crc="337875613" seo="true" mt="1516735384608" redirect="true"/>
   <file name="ot.html" crc="333284025" seo="true" mt="1516738115795" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
