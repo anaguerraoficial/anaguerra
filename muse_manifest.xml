@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1517171020622">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1517573033681">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="ot.css" crc="4224520832" ref="ot"/>
+    <file name="ot.css" crc="129850341" ref="ot"/>
     <file name="contacto.css" crc="382402999" ref="contacto"/>
     <file name="tienda.css" crc="443728085" ref="tienda"/>
     <file name="biograf_a.css" crc="4007094258" ref="biografía"/>
-    <file name="index.css" crc="3985759910" ref="index"/>
+    <file name="index.css" crc="3853598548" ref="index"/>
     <file name="fansclub.css" crc="4289016296" ref="fansclub"/>
     <file name="vota-a-ana.css" crc="4197123182" ref="vota-a-ana"/>
   </folder>
@@ -63,6 +63,9 @@
     <file name="lineas-def.jpg" crc="328631740" seo="true" mt="1516708535000"/>
     <file name="el-remedio_various-artists.mp3" crc="3760985583" seo="true" mt="1517155381000"/>
     <file name="lo-malo_various-artists.mp3" crc="47397543" seo="true" mt="1517155697000"/>
+    <file name="ganarana.jpg" crc="3807643380" seo="true" mt="1517483621000"/>
+    <file name="ganar-anaguerra.jpg" crc="3897083106" seo="true" mt="1517481464000"/>
+    <file name="ganar-anaguerra2.jpg" crc="476608744" seo="true" mt="1517481576000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>fansclub:phone>ot:phone>tienda:phone>contacto:phone>biografía:tablet>index:tablet>inicio:tablet>fansclub:tablet>ot:tablet>tienda:tablet>contacto:tablet>biografía:index:fansclub:ot:contacto:tienda:biografía:vota-a-ana"/>
@@ -349,7 +352,6 @@
     <file name="38c-crop-u19960.jpg" crc="24471600" ref="index"/>
     <file name="38c.jpg" crc="364834586" seo="true" ref="index:ot:vota-a-ana"/>
     <file name="u14500-11.png" crc="524481947" ref="index"/>
-    <file name="recarga2.jpg" crc="4258976108" seo="true" ref="ot"/>
     <file name="38a-crop-u22087.jpg" crc="93403213" ref="ot"/>
     <file name="37c.jpg" crc="279640239" seo="true" ref="ot"/>
     <file name="38b70x45.jpg" crc="239678283" seo="true" ref="ot"/>
@@ -359,12 +361,31 @@
     <file name="lineas def.jpg" crc="425054500" seo="true" ref="vota-a-ana"/>
     <file name="u21805.png" crc="4232253370" ref="fansclub"/>
     <file name="u21805-r.png" crc="4288273548" ref="fansclub"/>
-    <file name="lineas def368x261.jpg" crc="3976725280" seo="true" ref="ot"/>
     <file name="38f.jpg" crc="4238795726" seo="true" ref="ot"/>
     <file name="38g.jpg" crc="242522056" seo="true" ref="ot"/>
     <file name="38f60x45.jpg" crc="4167323183" seo="true" ref="ot"/>
     <file name="38g60x45.jpg" crc="4018521607" seo="true" ref="ot"/>
     <file name="u22318-4.png" crc="4159254641" ref="index"/>
+    <file name="u22636.png" crc="439108611" ref="index"/>
+    <file name="u22636-r.png" crc="4286024742" ref="index"/>
+    <file name="num.png" crc="3907633352" seo="true" ref="index"/>
+    <file name="ganarana.jpg" crc="4255756326" seo="true" ref="ot"/>
+    <file name="ganar anaguerra.jpg" crc="499014339" seo="true" ref="ot"/>
+    <file name="ganar anaguerra2.jpg" crc="437534339" seo="true" ref="ot"/>
+    <file name="whatsapp image 2018-02-01 at 172051.jpg" crc="4174526403" seo="true" ref="ot"/>
+    <file name="39.jpg" crc="4199717930" seo="true" ref="ot"/>
+    <file name="39e-crop-u22436.jpg" crc="4011422631" ref="ot"/>
+    <file name="40o.jpg" crc="164006036" seo="true" ref="ot"/>
+    <file name="41a-crop-u22476.jpg" crc="477423306" ref="ot"/>
+    <file name="41c.jpg" crc="4199972764" seo="true" ref="ot"/>
+    <file name="j.jpg" crc="143242569" seo="true" ref="ot"/>
+    <file name="whatsapp image 2018-02-01 at 172051-crop-u22359.jpg" crc="4017416106" ref="ot"/>
+    <file name="39-crop-u22422.jpg" crc="516032368" ref="ot"/>
+    <file name="39e-crop-u22442.jpg" crc="341598007" ref="ot"/>
+    <file name="40o68x45.jpg" crc="4002561100" seo="true" ref="ot"/>
+    <file name="41a-crop-u22482.jpg" crc="405544709" ref="ot"/>
+    <file name="41c68x45.jpg" crc="3770877996" seo="true" ref="ot"/>
+    <file name="j68x45.jpg" crc="235010184" seo="true" ref="ot"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -402,9 +423,9 @@
     <file name="contacto.html" crc="333383169" seo="true" mt="1514647111393" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4230994031" seo="true" mt="1517170998631" redirect="true"/>
+  <file name="index.html" crc="4053000397" seo="true" mt="1517572869127" redirect="true"/>
   <file name="fansclub.html" crc="337875613" seo="true" mt="1516735384608" redirect="true"/>
-  <file name="ot.html" crc="333284025" seo="true" mt="1516738115795" redirect="true"/>
+  <file name="ot.html" crc="218983" seo="true" mt="1517569604914" redirect="true"/>
   <file name="contacto.html" crc="59641744" seo="true" mt="1515337815712" redirect="true"/>
   <file name="tienda.html" crc="443825533" seo="true" mt="1516377332696" redirect="true"/>
   <file name="biografía.html" crc="73927869" seo="true" mt="1515337815715" redirect="true"/>
