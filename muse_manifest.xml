@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1518045257932">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1518046123620">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="ot.css" crc="374722098" ref="ot"/>
+    <file name="ot.css" crc="468004977" ref="ot"/>
     <file name="tienda.css" crc="3912117654" ref="tienda"/>
     <file name="biograf_a.css" crc="172916827" ref="biografía"/>
-    <file name="index.css" crc="4238893437" ref="index"/>
+    <file name="index.css" crc="4007370482" ref="index"/>
     <file name="fansclub.css" crc="469980896" ref="fansclub"/>
     <file name="vota-a-ana.css" crc="4197123182" ref="vota-a-ana"/>
     <file name="agenda.css" crc="3837725209" ref="agenda"/>
@@ -364,7 +364,6 @@
     <file name="41a-crop-u22482.jpg" crc="405544709" ref="ot"/>
     <file name="41c68x45.jpg" crc="3770877996" seo="true" ref="ot"/>
     <file name="j68x45.jpg" crc="235010184" seo="true" ref="ot"/>
-    <file name="46.jpg" crc="13336582" seo="true" ref="index"/>
     <file name="u22685-4.png" crc="3974727656" ref="index"/>
     <file name="whatsapp image 2018-02-01 at 172051-crop-u22353.jpg" crc="4099412701" ref="ot"/>
     <file name="46-crop-u22761.jpg" crc="345777306" ref="ot"/>
@@ -377,6 +376,7 @@
     <file name="u22842-4.png" crc="24052767" ref="agenda"/>
     <file name="u22843-4.png" crc="3955333873" ref="agenda"/>
     <file name="entradas.jpg" crc="367120189" seo="true" ref="agenda"/>
+    <file name="roi y ana.jpg" crc="3829634290" seo="true" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -414,9 +414,9 @@
     <file name="contacto.html" crc="4229614235" seo="true" mt="1518043936868" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4187468819" seo="true" mt="1518045193113" redirect="true"/>
+  <file name="index.html" crc="24417319" seo="true" mt="1518045979010" redirect="true"/>
   <file name="fansclub.html" crc="97897558" seo="true" mt="1518043936814" redirect="true"/>
-  <file name="ot.html" crc="4203147203" seo="true" mt="1518043936847" redirect="true"/>
+  <file name="ot.html" crc="4162331596" seo="true" mt="1518046049988" redirect="true"/>
   <file name="tienda.html" crc="178507455" seo="true" mt="1518043936820" redirect="true"/>
   <file name="biografía.html" crc="4091123355" seo="true" mt="1518043936842" redirect="true"/>
   <file name="vota-a-ana.html" crc="477748528" seo="true" mt="1518043936837" redirect="true"/>
