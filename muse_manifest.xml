@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1518046123620">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1518046452268">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="468004977" ref="ot"/>
     <file name="tienda.css" crc="3912117654" ref="tienda"/>
     <file name="biograf_a.css" crc="172916827" ref="biografía"/>
-    <file name="index.css" crc="4007370482" ref="index"/>
+    <file name="index.css" crc="3996891168" ref="index"/>
     <file name="fansclub.css" crc="469980896" ref="fansclub"/>
     <file name="vota-a-ana.css" crc="4197123182" ref="vota-a-ana"/>
     <file name="agenda.css" crc="3837725209" ref="agenda"/>
@@ -414,7 +414,7 @@
     <file name="contacto.html" crc="4229614235" seo="true" mt="1518043936868" redirect="false"/>
     <file name="biografía.html" crc="3965392862" seo="true" mt="1514647111394" redirect="false"/>
   </folder>
-  <file name="index.html" crc="24417319" seo="true" mt="1518045979010" redirect="true"/>
+  <file name="index.html" crc="3870850624" seo="true" mt="1518046404995" redirect="true"/>
   <file name="fansclub.html" crc="97897558" seo="true" mt="1518043936814" redirect="true"/>
   <file name="ot.html" crc="4162331596" seo="true" mt="1518046049988" redirect="true"/>
   <file name="tienda.html" crc="178507455" seo="true" mt="1518043936820" redirect="true"/>
