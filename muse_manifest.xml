@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1520168401082">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1520168604854">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="3775485520" ref="ot"/>
@@ -7,7 +7,7 @@
     <file name="fansclub.css" crc="3941586451" ref="fansclub"/>
     <file name="index.css" crc="3812758023" ref="index"/>
     <file name="tienda.css" crc="4019830282" ref="tienda"/>
-    <file name="gira-ot-2017.css" crc="3821293423" ref="gira-ot-2017"/>
+    <file name="gira-ot-2017.css" crc="362464095" ref="gira-ot-2017"/>
   </folder>
   <folder name="assets">
     <file name="anawar-favvv.jpg" crc="256435117" seo="true" mt="1513087449000"/>
@@ -403,5 +403,5 @@
   <file name="agenda.html" crc="355881510" seo="true" mt="1520163338852" redirect="true"/>
   <file name="tienda.html" crc="7860841" seo="true" mt="1520168350578" redirect="true"/>
   <file name="biografía.html" crc="493839510" seo="true" mt="1518043936842" redirect="true"/>
-  <file name="gira-ot-2017.html" crc="160133000" seo="true" mt="1520167568984" redirect="true"/>
+  <file name="gira-ot-2017.html" crc="160423445" seo="true" mt="1520168576856" redirect="true"/>
 </manifest>
