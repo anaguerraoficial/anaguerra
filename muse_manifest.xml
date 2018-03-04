@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1520168604854">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1520169141439">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="3775485520" ref="ot"/>
@@ -322,7 +322,6 @@
     <file name="u20188-4.png" crc="466994773" ref="tienda"/>
     <file name="15a.jpg" crc="376331300" seo="true" ref="tienda"/>
     <file name="u20256-5.png" crc="333551075" ref="tienda"/>
-    <file name="sudadera blanca.jpg" crc="4195481905" seo="true" ref="tienda"/>
     <file name="sudadera presiosa.jpg" crc="254208457" seo="true" ref="tienda"/>
     <file name="u17115-4.png" crc="3833662514" ref="tienda"/>
     <file name="a3.jpg" crc="5069849" seo="true" ref="tienda"/>
@@ -360,6 +359,7 @@
     <file name="whatsapp image 2018-03-04 at 132953.jpg" crc="4085921875" seo="true" ref="gira-ot-2017"/>
     <file name="whatsapp image 2018-03-04 at 132954.jpg" crc="129395328" seo="true" ref="gira-ot-2017"/>
     <file name="u23567-6.png" crc="463189992" ref="gira-ot-2017"/>
+    <file name="sudadera.jpg" crc="4044729543" seo="true" ref="tienda"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -401,7 +401,7 @@
   <file name="fansclub.html" crc="3977485456" seo="true" mt="1518043936814" redirect="true"/>
   <file name="ot.html" crc="170939095" seo="true" mt="1518046049988" redirect="true"/>
   <file name="agenda.html" crc="355881510" seo="true" mt="1520163338852" redirect="true"/>
-  <file name="tienda.html" crc="7860841" seo="true" mt="1520168350578" redirect="true"/>
+  <file name="tienda.html" crc="3759504539" seo="true" mt="1520169098395" redirect="true"/>
   <file name="biografía.html" crc="493839510" seo="true" mt="1518043936842" redirect="true"/>
   <file name="gira-ot-2017.html" crc="160423445" seo="true" mt="1520168576856" redirect="true"/>
 </manifest>
