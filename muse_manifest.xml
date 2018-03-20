@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1521563830281">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anaguerraoficial.com" resolutions="1x" timestamp="1521564942645">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="ot.css" crc="3775485520" ref="ot"/>
-    <file name="agenda.css" crc="4152837893" ref="agenda"/>
+    <file name="agenda.css" crc="4008636418" ref="agenda"/>
     <file name="biograf_a.css" crc="467888106" ref="biografía"/>
     <file name="fansclub.css" crc="4250187673" ref="fansclub"/>
     <file name="index.css" crc="3812758023" ref="index"/>
@@ -363,6 +363,7 @@
     <file name="u23670.png" crc="4162335169" ref="fansclub"/>
     <file name="u23670-r.png" crc="441563389" ref="fansclub"/>
     <file name="flyer wrb.png" crc="3856767149" seo="true" ref="fansclub"/>
+    <file name="whatsapp image 2018-03-20 at 174658(1).jpg" crc="196767453" seo="true" ref="agenda"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -403,7 +404,7 @@
   <file name="index.html" crc="386799586" seo="true" mt="1520166528455" redirect="true"/>
   <file name="fansclub.html" crc="9046563" seo="true" mt="1521563033098" redirect="true"/>
   <file name="ot.html" crc="170939095" seo="true" mt="1518046049988" redirect="true"/>
-  <file name="agenda.html" crc="355881510" seo="true" mt="1520163338852" redirect="true"/>
+  <file name="agenda.html" crc="4134593046" seo="true" mt="1521564910670" redirect="true"/>
   <file name="tienda.html" crc="3759504539" seo="true" mt="1520169098395" redirect="true"/>
   <file name="biografía.html" crc="493839510" seo="true" mt="1518043936842" redirect="true"/>
   <file name="gira-ot-2017.html" crc="119941385" seo="true" mt="1520169918001" redirect="true"/>
